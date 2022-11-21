@@ -9,4 +9,4 @@
 <br>
 <a href="https://github.com/EnAnsari/bcp1401/releases/tag/1.3.0">دانلود کتاب سی پلاس پلاس به زبان ساده</a>
 <br>
-<a href="https://github.com/EnAnsari/bcp1401/releases/tag/1.3.0">دانلود ۴ جزوه برای آموزش سی پلاس پلاس</a>
+<a href="https://github.com/EnAnsari/bcp1401/releases/tag/1.4.0">دانلود ۴ جزوه برای آموزش سی پلاس پلاس</a>
