@@ -49,7 +49,7 @@ Telegram ID: <a href="https://t.me/wolf2022">@wolf2022</a>
   </tr>
     <td>9</td>
   <td>الگوریتمی بنویسید که فاکتوریل کلیه اعداد دو رقمی را با استفاده از تابع fact محاسبه کرده و در خروجی چاپ کند</td>
-    <td>حل نشده</td>
+    <td><a href="https://github.com/EnAnsari/bcp1401/tree/main/src/008">حل شده</td>
   </tr>
 <table>
 </div>
