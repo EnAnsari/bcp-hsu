@@ -5,8 +5,13 @@
 <a href="https://github.com/EnAnsari/bcp1401/blob/main/questions.md">سوالات و پاسخ تمرین‌ها</a>
 <br><br>
 <a href="https://github.com/EnAnsari/bcp1401/tree/main/more-question">سوالات بیشتر ...</a>
-<br><br><br>
+<br><br>
 </h3>
+
+### راه ارتباطی
+Email: <a href="mailto:rahmat2022a@gmail.com">rahmat2022a@gmail.com</a>
+<br>
+Telegram ID: <a href="https://t.me/wolf2022">@wolf2022</a>
 
 ### بخش دانلود
 <a href="https://github.com/EnAnsari/bcp1401/releases/tag/1.0.0">دانلود کتاب آموزش سی پلاس پلاس دایتل اند دایتل</a>
