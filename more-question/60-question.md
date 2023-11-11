@@ -16,7 +16,7 @@ Telegram ID: <a href="https://t.me/wolf2022">@wolf2022</a>
     <td>1</td>
     <td>برنامه‌های ساده</td>
     <td>برنامه‌ای بنویسید که طول و عرض مستطیلی دریافت کند و محیط و مساحت آن را چاپ کند</td>
-    <td>حل نشده</td>
+    <td><a href="more-question/src/001">حل شده</a></td>
   </tr>
   <tr>
     <td>2</td>
