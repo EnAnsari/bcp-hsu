@@ -1,0 +1,11 @@
+1. Start
+2. Imput Number (x)
+3. if ( x % 2 == 0 )
+{
+Display "Even (زوج)"
+}
+else
+{
+    Display "odd (فرد)"
+}
+4. Stop
