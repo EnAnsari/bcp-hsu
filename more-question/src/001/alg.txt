@@ -1,0 +1,6 @@
+1. Start
+2. Imput First Number (x)
+3. Imput Second Number (y)
+4. Display ( a + b )
+5. Display (a * b) * 2
+7. Stop
