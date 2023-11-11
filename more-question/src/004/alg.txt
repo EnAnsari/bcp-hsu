@@ -1,0 +1,11 @@
+1. Start
+2. Imput Number (x)
+3. if (x > 0)
+{
+    Display (x)
+}
+else
+{
+    Display (x * -1)
+}
+4. Stop
