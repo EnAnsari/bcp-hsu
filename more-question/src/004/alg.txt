@@ -6,6 +6,6 @@
 }
 else
 {
-    Display (x * -1)
+    Display (-x)
 }
 4. Stop
