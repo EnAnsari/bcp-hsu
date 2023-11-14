@@ -1,0 +1,16 @@
+1. Start
+2. Enter The Lenght (n)
+3. Enter The HOP (m)
+4. i=1
+Until (i<=n) 
+{
+    if (i%m==0)
+    {
+        Display (HOP)
+    }
+    else
+    {
+        Display(i)
+        i=i+1
+    }
+} 
