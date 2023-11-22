@@ -38,10 +38,12 @@ Telegram ID: <a href="https://t.me/wolf2022">@wolf2022</a>
     <td>شرط</td>
     <td>
       الگوریتمی بنویسید که تابع زیر را پیاده کند:<br>
+      <div dir='ltr'>
       y = {<br>
         2x -----------when-> x >= 0<br>
         x^2 - 5 ------when-> x < 0<br>
       }
+      </div>
     </td>
     <td><a href=""></a></td>
   </tr>
@@ -50,11 +52,13 @@ Telegram ID: <a href="https://t.me/wolf2022">@wolf2022</a>
     <td>شرط</td>
     <td>
       الگوریتمی بنویسید که تابع زیر را پیاده کند:<br>
+      <div dir='ltr'>
       y = {<br>
         2x ------------when-> x > 0<br>
         5 -------------when-> x == 0<br>
         x^2 - 5 -------when-> x < 0<br>
-      }    
+      }
+      </div>
     </td>
     <td><a href=""></a></td>
   </tr>
