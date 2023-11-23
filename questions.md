@@ -23,7 +23,7 @@ Telegram ID: <a href="https://t.me/wolf2022">@wolf2022</a>
     <td>
       الگوریتمی بنویسید که طول و عرض مستطیل را از ورودی دریافت و مساحت و محیط آن را در خروجی چاپ کند
     </td>
-    <td><a href=""></a></td>
+    <td><a href="https://github.com/EnAnsari/bcp1401/tree/main/src/002">حل شده</a></td>
   </tr>
   <tr>
     <td>3</td>
@@ -31,7 +31,7 @@ Telegram ID: <a href="https://t.me/wolf2022">@wolf2022</a>
     <td>
       الگوریتمی بنویسید که دو عدد را خوانده و مقدار بزرگتر را در خروجی چاپ کند.
     </td>
-    <td><a href=""></a></td>
+    <td>حل نشده</td>
   </tr>
   <tr>
     <td>4</td>
@@ -45,7 +45,7 @@ Telegram ID: <a href="https://t.me/wolf2022">@wolf2022</a>
       }
       </div>
     </td>
-    <td><a href=""></a></td>
+    <td>حل نشده</td>
   </tr>
   <tr>
     <td>5</td>
@@ -60,7 +60,7 @@ Telegram ID: <a href="https://t.me/wolf2022">@wolf2022</a>
       }
       </div>
     </td>
-    <td><a href=""></a></td>
+    <td>حل نشده</td>
   </tr>
   <tr>
     <td>6</td>
@@ -68,7 +68,7 @@ Telegram ID: <a href="https://t.me/wolf2022">@wolf2022</a>
     <td>
       الگوریتمی بنویسید که اعداد ۱ تا ۱۰۰ را در خروجی چاپ کند
     </td>
-    <td><a href=""></a></td>
+    <td>حل نشده</td>
   </tr>
   <tr>
     <td>7</td>
@@ -76,7 +76,7 @@ Telegram ID: <a href="https://t.me/wolf2022">@wolf2022</a>
     <td>
       الگوریتمی بنویسید که ۱۰۰ عدد را از ورودی خوانده و مجموع آن‌ها را در خروجی چاپ کند
     </td>
-    <td><a href=""></a></td>
+    <td>حل نشده</td>
   </tr>
   <tr>
     <td>8</td>
@@ -84,7 +84,7 @@ Telegram ID: <a href="https://t.me/wolf2022">@wolf2022</a>
     <td>
       الگوریتمی بنویسید که از بین ده عدد دومین بزرگترین عدد را پیدا و چاپ کند
     </td>
-    <td><a href=""></a></td>
+    <td>حل نشده</td>
   </tr>
   <tr>
     <td>9</td>
@@ -92,7 +92,7 @@ Telegram ID: <a href="https://t.me/wolf2022">@wolf2022</a>
     <td>
       الگوریتمی بنویسید که یک عدد را دریافت کند و مشخص کند که آن عدد اول است یا نه
     </td>
-    <td><a href=""></a></td>
+    <td>حل نشده</td>
   </tr>
   <tr>
     <td>10</td>
@@ -101,7 +101,7 @@ Telegram ID: <a href="https://t.me/wolf2022">@wolf2022</a>
       A: تعداد دروس و تعداد واحد و نمره هر درس رو گرفته و برای هریک از ۵۰ دانشجوی کلاس  معدل کل را چاپ کنید
       <br>‌B: معدل دو دانشجوی برتر کلاس را چاپ کنید.
     </td>
-    <td><a href=""></a></td>
+    <td>حل نشده</td>
   </tr>
   <tr>
     <td>11</td>
@@ -109,7 +109,7 @@ Telegram ID: <a href="https://t.me/wolf2022">@wolf2022</a>
     <td>
       الگوریتمی بنویسید که عددی را از ورودی خوانده و مشخص کند که این عدد مرکب است یا اول
     </td>
-    <td><a href=""></a></td>
+    <td>حل نشده</td>
   </tr>
   <tr>
     <td>12</td>
@@ -117,7 +117,7 @@ Telegram ID: <a href="https://t.me/wolf2022">@wolf2022</a>
     <td>
       برنامه‌ای بنویسید که ۱۰۰ عدد (مرتب شده به صورت صعودی) را دریافت و در آرایه‌ای ۲۰۰ عنصری درج کند. سپس عدد x را دریافت و به گونه‌ای درج کند که عناصر مرتب بمانند.
     </td>
-    <td><a href=""></a></td>
+    <td>حل نشده</td>
   </tr>
 <table>
 </div>
