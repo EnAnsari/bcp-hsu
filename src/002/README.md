@@ -3,13 +3,14 @@
 Your answer must pass this
 <a href=''>test +</a>
 correctly and also use the correct method.
+<br>
 You can submit your answer using
 <a href=''>this tutorial +</a>
 or use the answers below.
 
 <hr>
 
-<table>
+<table dir='rtl'>
   <tr>
     <th>ردیف</th>
     <th>نام</th>
