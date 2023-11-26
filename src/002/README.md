@@ -25,7 +25,7 @@ or use the answers below.
     </td>
     <td>unsolved</td>
     <td>
-        <a href='https://github.com/EnAnsari/bcp-hsu/blob/main/src/002/main.cpp'>solved</a>
+        <a href='https://github.com/EnAnsari/bcp-hsu/blob/main/src/002/9912377331/main.cpp'>solved</a>
     </td>
     <td>unsolved</td>
   </tr>
