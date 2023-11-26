@@ -3,7 +3,7 @@ Email: <a href="mailto:rahmat2022a@gmail.com">rahmat2022a@gmail.com</a>
 <br>
 Telegram ID: <a href="https://t.me/wolf2022">@wolf2022</a>
 <br><br>
-<div dir=rtl>
+<div>
 <table>
   <tr>
     <th>شماره</th>

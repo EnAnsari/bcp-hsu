@@ -7,22 +7,26 @@ correctly and also use the correct method.
 You can submit your answer using
 <a href=''>this tutorial +</a>
 or use the answers below.
+<br><br>
 
-<hr>
-
-<table dir='rtl'>
+## Answer tabale
+<table>
   <tr>
-    <th>ردیف</th>
-    <th>نام</th>
-    <th>الگوریتم</th>
+    <th>Num</th>
+    <th>Name</th>
+    <th>Algorithm</th>
     <th>c++</th>
     <th>python</th>
   </tr>
   <tr>
     <td>1</td>
-    <td>Rahmat</td>
-    <td>حل نشده</td>
-    <td>حل نشده</td>
-    <td>حل نشده</td>
+    <td>
+        <a href='https://github.com/EnAnsari/'>Rahmat</a>
+    </td>
+    <td>unsolved</td>
+    <td>
+        <a href='https://github.com/EnAnsari/bcp-hsu/blob/main/src/002/main.cpp'>solved</a>
+    </td>
+    <td>unsolved</td>
   </tr>
 <table>
