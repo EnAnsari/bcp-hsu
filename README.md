@@ -10,7 +10,8 @@
 
 <h4>
 <ul>
-<li><a href="https://github.com/EnAnsari/bcp-hsu/blob/main/questions.md">سوالات و پاسخ تمرین‌ها</a></li><br>
+<li><a href="https://github.com/EnAnsari/bcp-hsu/blob/main/questions.md">سوالات و پاسخ تمرین‌های سرکلاسی</a></li><br>
+<li><a href="https://github.com/EnAnsari/bcp-hsu/blob/main/more-question/homework.md">سوالات حل تمرین برای حل دانشجویان</a></li><br>
 <li><a href="https://github.com/EnAnsari/bcp-hsu/blob/main/1402/questions.md">آرشیو سوالات سال 1401</a></li><br>
 <li><a href="https://github.com/EnAnsari/bcp-hsu/tree/main/more-question">سوالات بیشتر ...</a></li>
 </ul>
