@@ -1,7 +1,7 @@
 # Question Page
 
 Your answer must pass this
-<a href='https://github.com/EnAnsari/bcp-hsu/blob/main/src/002/test.md'>test +</a>
+<a href='https://github.com/EnAnsari/bcp-hsu/blob/main/src/0002/test.md'>test +</a>
 correctly and also use the correct method.
 <br>
 You can submit your answer using
