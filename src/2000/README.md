@@ -18,17 +18,17 @@ or use the answers below.
     <th>c++</th>
     <th>python</th>
   </tr>
-  <tr>
-    <!-- <td>NUM_OF_ANSWER</td>
+  <!-- <tr>
+    <td>NUM_OF_ANSWER</td>
     <td>
         <a href='YOUR_GITHUB_USERNAME'>NAME_AND_FAMILY</a>
-    </td> -->
-    <!-- <td>
-        <a href='https://github.com/EnAnsari/bcp-hsu/blob/main/src/2000/STUDENT_ID/FILE_NAME'>solved</a>
-    </td> -->
-    <!-- algorithm | c++ | python answer::: -->
-    <!-- <td>unsolved</td>
+    </td>
     <td>unsolved</td>
-    <td>unsolved</td> -->
-  </tr>
+    <td>unsolved</td>
+    <td>unsolved</td>
+  </tr> -->
 <table>
+
+  <!-- <td>
+      <a href='https://github.com/EnAnsari/bcp-hsu/blob/main/src/2000/STUDENT_ID/FILE_NAME'>solved</a>
+  </td> -->
