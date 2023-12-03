@@ -17,11 +17,70 @@ Telegram ID: <a href="https://t.me/wolf2022">@wolf2022</a>
     <td>2000</td>
     <td>ساختار</td>
     <td>برنامه‌ای بنویسید که عبارت<br>Welcome to Hakim<br>را چاپ کند. (تمرین تستی)</td>
-    <!-- Replace the comment below with the tag below it. After that, enter the answer page and add your answer. -->
     <td>
         <a href='/src/2000/'>solved</a>
     </td>
   </tr>
-
+  <tr>
+    <td>1</td>
+    <td>2001</td>
+    <td>آرایه دو بعدی</td>
+    <td>
+      انتخاب k عنصر از n عنصر<br>
+      <a href=''>دانلود سوال +</a>
+    </td>
+    <td>
+        <a href='/src/2001/'>solved</a>
+    </td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>2002</td>
+    <td>کوئرا</td>
+    <td>
+      مصائب کامبیز (ساده)<br>
+      <a href='https://quera.org/problemset/66862'>لینک سوال +</a>
+    </td>
+    <td>unsolve</td>
+    <!-- <td>
+        <a href='/src/2002/'>solved</a>
+    </td> -->
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>2003</td>
+    <td>کوئرا</td>
+    <td>
+      عدد خوب (متوسط)<br>
+      <a href='https://quera.org/problemset/66861'>لینک سوال +</a>
+    </td>
+    <td>unsolve</td>
+    <!-- <td>
+        <a href='/src/2003/'>solved</a>
+    </td> -->
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>2004</td>
+    <td>کوئرا</td>
+    <td>
+      کاشی های نمکستان (سخت)<br>
+      <a href='https://quera.org/problemset/66862'>لینک سوال +</a>
+    </td>
+    <td>unsolve</td>
+    <!-- <td>
+        <a href='/src/2004/'>solved</a>
+    </td> -->
+  </tr>
 <table>
 </div>
+    <!-- <tr>
+    <td>QUESTION_NUMBER</td>
+    <td>QUESTION_CODE</td>
+    <td>CATEGORY</td>
+    <td>QUESTION</td>
+    <td>unsolve</td>
+  </tr> -->
+    <!-- <td>
+        <a href='/src/QUESTION_CODE/'>solved</a>
+    </td> -->
