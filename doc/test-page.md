@@ -6,25 +6,23 @@ To test the program, we gave the following inputs and got the desired output.
 input:
 
 ```
-5 10
+test
 ```
 <br>
 output:
 
 ```
-Area: 50
-perimeter: 30
+test
 ```
 
 ## Test 2
 input:
 ```
-3 4
+test
 ```
 <br>
 output:
 
 ```
-Area: 12
-perimeter: 14
+test
 ```
