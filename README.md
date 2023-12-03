@@ -1,5 +1,5 @@
 # مبانی کامپیوتر و برنامه‌نویسی
-  [![en](https://img.shields.io/badge/click_to_README-English-red.svg)](/blob/main/doc/README-EN.md)
+  [![en](https://img.shields.io/badge/click_to_README-English-red.svg)](/doc/README-EN.md)
   [![lc](https://img.shields.io/badge/license-MIT-blue.svg)](/blob/main/LICENSE)
   <br><br>
     🚀 <strong>ترم مهر 1402
