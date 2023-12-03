@@ -1,0 +1,7 @@
+1. Start
+2. Input Time-Hour (h)
+3. Input Time-Min (m)
+4. Input Time-Sec (s)
+5. x = (s) + ( m * 60 ) + ( h * 3600 ) 
+6. Display (x)
+7. Stop
