@@ -18,10 +18,9 @@ Telegram ID: <a href="https://t.me/wolf2022">@wolf2022</a>
     <td>ساختار</td>
     <td>برنامه‌ای بنویسید که عبارت<br>Welcome to Hakim<br>را چاپ کند. (تمرین تستی)</td>
     <!-- Replace the comment below with the tag below it. After that, enter the answer page and add your answer. -->
-    <td>unsolve</td>
-    <!-- <td>
+    <td>
         <a href='/src/2000/'>solved</a>
-    </td> -->
+    </td>
   </tr>
 
 <table>
