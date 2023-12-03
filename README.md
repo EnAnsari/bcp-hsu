@@ -10,10 +10,10 @@
 
 <h4>
 <ul>
-<li><a href="/blob/main/questions.md">سوالات و پاسخ تمرین‌های سرکلاسی</a></li><br>
-<li><a href="/blob/main/more-question/homework.md">سوالات حل تمرین برای حل دانشجویان</a></li><br>
-<li><a href="/blob/main/1402/questions.md">آرشیو سوالات سال 1401</a></li><br>
-<li><a href="/tree/main/more-question">سوالات بیشتر ...</a></li>
+<li><a href="/questions.md">سوالات و پاسخ تمرین‌های سرکلاسی</a></li><br>
+<li><a href="/more-question/homework.md">سوالات حل تمرین برای حل دانشجویان</a></li><br>
+<li><a href="/1402/questions.md">آرشیو سوالات سال 1401</a></li><br>
+<li><a href="/more-question">سوالات بیشتر ...</a></li>
 </ul>
 </h4>
 <hr>

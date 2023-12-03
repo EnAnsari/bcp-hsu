@@ -20,7 +20,7 @@ Telegram ID: <a href="https://t.me/wolf2022">@wolf2022</a>
     <!-- Replace the comment below with the tag below it. After that, enter the answer page and add your answer. -->
     <td>unsolve</td>
     <!-- <td>
-        <a href='/blob/main/src/2000/'>solved</a>
+        <a href='/src/2000/'>solved</a>
     </td> -->
   </tr>
 
