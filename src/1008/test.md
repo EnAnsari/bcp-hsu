@@ -1,10 +1,8 @@
 # Test page
-To test the program, we gave the following inputs and got the desired output.
+This question does not have a test or a test has not been written for it yet.
 <br>
-
-## Test
-output:
-
-```
-Welcome to Hakim
-```
+> Contact the [admin](mailto:rahmat2022a@gmail.com) for more information!
+<hr>
+<div dir='rtl'>
+این سوال دارای تست نمیباشد یا هنوز تستی برای آن نوشته نشده است. 
+</div>
