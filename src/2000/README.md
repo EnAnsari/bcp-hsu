@@ -28,7 +28,6 @@ or use the answers below.
     <td>unsolved</td>
   </tr> -->
 <table>
-
   <!-- <td>
-      <a href='https://github.com/EnAnsari/bcp-hsu/blob/main/src/2000/STUDENT_ID/FILE_NAME'>solved</a>
+      <a href='./STUDENT_ID/FILE_NAME'>solved</a>
   </td> -->
