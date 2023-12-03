@@ -27,7 +27,7 @@ Telegram ID: <a href="https://t.me/wolf2022">@wolf2022</a>
     <td>آرایه دو بعدی</td>
     <td>
       انتخاب k عنصر از n عنصر<br>
-      <a href=''>دانلود سوال +</a>
+      <a href='https://github.com/EnAnsari/bcp-hsu/releases/download/3.0.0/q2001.pdf'>دانلود سوال +</a>
     </td>
     <td>
         <a href='/src/2001/'>solved</a>
