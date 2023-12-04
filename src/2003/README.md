@@ -24,8 +24,8 @@ or use the answers below.
         <a href='https://github.com/AliakbarSoli'>Aliakbar Soltani</a>
     </td>
     <td>unsolved</td>
-    <td><a href='./4021277130/Good_Num.cpp'>solved</a></td>
-    <td>unsolved</td>
+    <td><a href='./4021277130/main.cpp'>solved</a></td>
+    <td><a href='./4021277130/main.py'>solved</a></td>
   </tr>
   <!-- <tr>
     <td>NUM_OF_ANSWER</td>
