@@ -1,0 +1,33 @@
+1. Start
+2. Imput Root1(a)
+3. Imput Root2(b)
+4. Imput Root3(c)
+
+5. if (a != 0)
+{
+    delta = (b * b ) - ( 4 * a * c )
+
+    if (delta > 0)
+    {
+        Root1 = ( -b + Radical(delta) ) / ( 2 * a )
+        Root2 = ( -b - Radical(delta) ) / ( 2 * a )
+        Display (Root1)
+        Display (Root2)
+    }
+    else if (delta < 0)
+    {
+        Display "NO Root"
+    }
+    else
+    {
+        Root1 = (-b) / ( 2 * a )
+        Display (Root1)
+    }
+}
+
+else
+{
+    Display "It's Impossible"
+}
+
+6. Stop
