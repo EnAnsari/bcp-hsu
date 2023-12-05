@@ -54,7 +54,9 @@ Telegram ID: <a href="https://t.me/wolf2022">@wolf2022</a>
       عدد خوب (متوسط)<br>
       <a href='https://quera.org/problemset/66861'>لینک سوال +</a>
     </td>
-    <td>unsolve</td>
+    <td>
+      <a href='/src/2003/'>solved</a>
+    </td>
     <!-- <td>
         <a href='/src/2003/'>solved</a>
     </td> -->
