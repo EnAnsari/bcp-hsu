@@ -12,6 +12,7 @@
 <ul>
 <li><a href="/questions.md">سوالات و پاسخ تمرین‌های سرکلاسی</a></li><br>
 <li><a href="/more-question/homework.md">سوالات حل تمرین برای حل دانشجویان</a></li><br>
+<li><a href="/questions.md">نمونه سوالات امتحانی</a></li><br>
 <li><a href="/1402/questions.md">آرشیو سوالات سال 1401</a></li><br>
 <li><a href="/more-question">سوالات بیشتر ...</a></li>
 </ul>
