@@ -28,13 +28,26 @@ Telegram ID: <a href="https://t.me/wolf2022">@wolf2022</a>
         4 : 4004 : <a href='/src/4004/'>solved</a>
     </td>
   </tr>
+  <tr>
+    <td>2</td>
+    <td>میانترم آزمایشی</td>
+    <td>
+        <a href='https://github.com/EnAnsari/bcp-hsu/releases/download/3.0.0/test-midterm-02.pdf'>download</a>
+    </td>
+    <td></td>
+    <td dir='ltr'>
+        1 : 4005 : unsolve<br>
+        2 : 4006 : unsolve<br>
+        3 : 4007 : unsolve
+    </td>
+  </tr>
 <table>
 </div>
     <!-- <tr>
     <td>NUMBER_OF_EXAM</td>
     <td>CATEGORY</td>
     <td>QUESTION</td>
-    <td>-</td>
-    <td>QUESTION_NUMBER : QUESTION_CODE : unsolve</td>
+    <td></td>
+    <td dir='ltr'>QUESTION_NUMBER : QUESTION_CODE : unsolve</td>
   </tr> -->
   <!-- <a href='/src/QUESTION_CODE/'>solve</a> -->
