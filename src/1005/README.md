@@ -18,6 +18,16 @@ or use the answers below.
     <th>c++</th>
     <th>python</th>
   </tr>
+
+  <tr>
+    <td>1</td>
+    <td>
+        <a href='https://github.com/AliakbarSoli'>Aliakbar Soltani</a>
+    </td>
+    <td><a href='./4021277130/alg.txt'>solved</a></td>
+    <td><a href='./4021277130/main_cpp.cpp'>solved</a></td>
+    <td><a href='./4021277130/main_PY.py'>solved</a></td>
+  </tr>
   <!-- <tr>
     <td>NUM_OF_ANSWER</td>
     <td>
