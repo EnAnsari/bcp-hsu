@@ -31,12 +31,10 @@ Telegram ID: <a href="https://t.me/wolf2022">@wolf2022</a>
 <table>
 </div>
     <!-- <tr>
-    <td>QUESTION_NUMBER</td>
-    <td>QUESTION_CODE</td>
+    <td>NUMBER_OF_EXAM</td>
     <td>CATEGORY</td>
     <td>QUESTION</td>
-    <td>unsolve</td>
+    <td>-</td>
+    <td>QUESTION_NUMBER : QUESTION_CODE : unsolve</td>
   </tr> -->
-    <!-- <td>
-        <a href='/src/QUESTION_CODE/'>solved</a>
-    </td> -->
+  <!-- <a href='/src/QUESTION_CODE/'>solve</a> -->
