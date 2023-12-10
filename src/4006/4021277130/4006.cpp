@@ -1,26 +1,27 @@
 #include<iostream>
+#include <cmath>
+
 using namespace std;
 int main()
 {
-    int n[1000],x=0;
+    int x[1000],a=0;
     for(int i=0;i<1000;i++)
     {
-        cout<<"Enter The Num : ";
-        cin>>n[i];
+        cout<<"Enter The Num :";
+        cin>>x[i];
     }
-    for(int j=0;j<1000;j++)
+    a=x[0];
+    for(int j=1;j<10000;j++)
     {
-        if(n[j]>0)
+        ///Compare Between ABS(-) And ABS(+)
+        if(abs(a+x[j])>=abs(a-x[j]))
         {
-            n[j]*=-1;
+            a=a-x[j];
         }
         else
         {
-            n[j]*=1;
+            a+=x[j];
         }
-        x+=n[j];
     }
-
-    cout<<"Sum Array : "<<x;
-
+    cout<<"Final Num : "<<abs(a);
 }
