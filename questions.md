@@ -17,7 +17,7 @@ Telegram ID: <a href="https://t.me/wolf2022">@wolf2022</a>
     <td>0001</td>
     <td>ساختار</td>
     <td>برنامه‌ای بنویسید که عبارت Hello World را چاپ کند. (تمرین تستی)</td>
-    <td><a href="https://github.com/EnAnsari/bcp1401/tree/main/src/001">حل شده</a></td>
+    <td><a href="/src/0001">حل شده</a></td>
   </tr>
   <tr>
     <td>2</td>
@@ -26,7 +26,7 @@ Telegram ID: <a href="https://t.me/wolf2022">@wolf2022</a>
     <td>
       الگوریتمی بنویسید که طول و عرض مستطیل را از ورودی دریافت و مساحت و محیط آن را در خروجی چاپ کند
     </td>
-    <td><a href="https://github.com/EnAnsari/bcp1401/tree/main/src/002">حل شده</a></td>
+    <td><a href="/src/0002">حل شده</a></td>
   </tr>
   <tr>
     <td>3</td>
@@ -132,5 +132,15 @@ Telegram ID: <a href="https://t.me/wolf2022">@wolf2022</a>
     </td>
     <td>حل نشده</td>
   </tr>
+  <tr>
+    <td>13</td>
+    <td>0013</td>
+    <td>آرایه</td>
+    <td>
+      برنامه‌ای بنویسید که n عدد از ورودی دریافت کند و با استفاده از الگوریتم <strong>مرتب سازی درجی</strong> آن‌ها را صعودی مرتب کند. سپس عناصر آن را چاپ کند.
+    </td>
+    <td>حل نشده</td>
+  </tr>
 <table>
 </div>
+<!-- <a href="/src/0?">حل شده</a> -->
