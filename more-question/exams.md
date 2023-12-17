@@ -67,6 +67,19 @@ Telegram ID: <a href="https://t.me/wolf2022">@wolf2022</a>
       3 : 4013 : unsolve<br>
     </td>
   </tr>
+  <tr>
+    <td>5</td>
+    <td>میانترم مهر 1401</td>
+    <td>
+      <a href='https://github.com/EnAnsari/bcp-hsu/releases/download/3.0.0/midterm-1-1401-1402.pdf'>download</a>
+    </td>
+    <td></td>
+    <td dir='ltr'>
+      1 : 4014 : unsolve<br>
+      2 : 4015 : unsolve<br>
+      3 : 4016 : unsolve<br>
+    </td>
+  </tr>
 <table>
 </div>
     <!-- <tr>
