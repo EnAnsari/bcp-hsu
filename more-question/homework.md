@@ -41,10 +41,9 @@ Telegram ID: <a href="https://t.me/wolf2022">@wolf2022</a>
       مصائب کامبیز (ساده)<br>
       <a href='https://quera.org/problemset/66862'>لینک سوال +</a>
     </td>
-    <td>unsolve</td>
-    <!-- <td>
+    <td>
         <a href='/src/2002/'>solved</a>
-    </td> -->
+    </td>
   </tr>
   <tr>
     <td>3</td>
