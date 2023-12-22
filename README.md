@@ -3,7 +3,12 @@
   [![lc](https://img.shields.io/badge/license-MIT-blue.svg)](/blob/main/LICENSE)
   <br><br>
     🚀 <strong>ترم مهر 1402
-  <a href='https://github.com/EnAnsari/EnAnsari/blob/main/list-of-hsu.md'>دانشگاه حکیم سبزواری</a></strong>
+  <a href='https://github.com/EnAnsari/EnAnsari/blob/main/list-of-hsu.md'>دانشگاه حکیم سبزواری</a></strong><br><br>
+    📃 قبل از پول ریکوئست
+    <a href='https://github.com/EnAnsari/bcp-hsu/releases/download/3.0.0/teaching-submit-question.pdf'>نحوه</a>
+    آن و
+    <a href='https://github.com/EnAnsari/EnAnsari/releases/download/0/TA-practice-rule.pdf'>آداب‌نامه</a>
+    آن را مطالعه کنید.
 <br><br>
 
 
