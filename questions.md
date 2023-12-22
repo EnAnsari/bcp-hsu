@@ -140,7 +140,7 @@ Telegram ID: <a href="https://t.me/wolf2022">@wolf2022</a>
       برنامه‌ای بنویسید که n عدد از ورودی دریافت کند و با استفاده از الگوریتم <strong>مرتب سازی درجی</strong> آن‌ها را صعودی مرتب کند. سپس عناصر آن را چاپ کند.
       <a href='https://blog.faradars.org/sorting-lgorithms/#%D8%A7%D9%84%DA%AF%D9%88%D8%B1%DB%8C%D8%AA%D9%85_%D9%85%D8%B1%D8%AA%D8%A8_%D8%B3%D8%A7%D8%B2%DB%8C_%D8%AF%D8%B1%D8%AC%DB%8C_(Insertion_Sort)'>(آموزش مرتب سازی)</a>
     </td>
-    <td>حل نشده</td>
+    <td><a href="/src/0013">حل شده</a></td>
   </tr>
   <tr>
     <td>14</td>
@@ -171,4 +171,4 @@ Telegram ID: <a href="https://t.me/wolf2022">@wolf2022</a>
   </tr>
 <table>
 </div>
-<!-- <a href="/src/0?">حل شده</a> -->
+    <!-- <td><a href="/src/0?">حل شده</a></td> -->
