@@ -1,8 +1,32 @@
 # Test page
-This question does not have a test or a test has not been written for it yet.
+To test the program, we gave the following inputs and got the desired output.
 <br>
-> Contact the [admin](mailto:rahmat2022a@gmail.com) for more information!
-<hr>
-<div dir='rtl'>
-این سوال دارای تست نمیباشد یا هنوز تستی برای آن نوشته نشده است. 
-</div>
+
+## Test 1
+input:
+
+```
+5
+-5 0 45 65 78
+65
+```
+<br>
+output:
+
+```
+3
+```
+
+## Test 2
+input:
+```
+8
+-45 12 14 56 59 59 77 645
+0
+```
+<br>
+output:
+
+```
+-1
+```
