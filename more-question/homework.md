@@ -320,6 +320,266 @@ Telegram ID: <a href="https://t.me/wolf2022">@wolf2022</a>
     </td>
     <td>unsolve</td>
   </tr>
+  <tr>
+    <td>30</td>
+    <td>2030</td>
+    <td>کوئرا</td>
+    <td>
+      مجموعه بازی ۲! (متوسط)<br>
+      <a href='https://quera.org/problemset/66869'>لینک سوال +</a>
+    </td>
+    <td>unsolve</td>
+  </tr>
+  <tr>
+    <td>31</td>
+    <td>2031</td>
+    <td>کوئرا</td>
+    <td>
+      ایزی لیگ (متوسط)<br>
+      <a href='https://quera.org/problemset/66868'>لینک سوال +</a>
+    </td>
+    <td>unsolve</td>
+  </tr>
+  <tr>
+    <td>32</td>
+    <td>2032</td>
+    <td>کوئرا</td>
+    <td>
+      باغچه رز (متوسط)<br>
+      <a href='https://quera.org/problemset/66867'>لینک سوال +</a>
+    </td>
+    <td>unsolve</td>
+  </tr>
+  <tr>
+    <td>33</td>
+    <td>2033</td>
+    <td>کوئرا</td>
+    <td>
+      سماق‌فارم (متوسط)<br>
+      <a href='https://quera.org/problemset/66865'>لینک سوال +</a>
+    </td>
+    <td>unsolve</td>
+  </tr>
+  <tr>
+    <td>34</td>
+    <td>2034</td>
+    <td>کوئرا</td>
+    <td>
+      کدمستر (متوسط)<br>
+      <a href='https://quera.org/problemset/66863'>لینک سوال +</a>
+    </td>
+    <td>unsolve</td>
+  </tr>
+  <tr>
+    <td>35</td>
+    <td>2035</td>
+    <td>کوئرا</td>
+    <td>
+      جمع چندلایه (متوسط)<br>
+      <a href='https://quera.org/problemset/335'>لینک سوال +</a>
+    </td>
+    <td>unsolve</td>
+  </tr>
+  <tr>
+    <td>36</td>
+    <td>2036</td>
+    <td>کوئرا</td>
+    <td>
+      فرزاد بازی‌کن (متوسط)<br>
+      <a href='https://quera.org/problemset/656'>لینک سوال +</a>
+    </td>
+    <td>unsolve</td>
+  </tr>
+  <tr>
+    <td>37</td>
+    <td>2037</td>
+    <td>کوئرا</td>
+    <td>
+      فرزاد فیلم‌بین (متوسط)<br>
+      <a href='https://quera.org/problemset/655'>لینک سوال +</a>
+    </td>
+    <td>unsolve</td>
+  </tr>
+  <tr>
+    <td>38</td>
+    <td>2038</td>
+    <td>کوئرا</td>
+    <td>
+      اعداد شریفی (متوسط)<br>
+      <a href='https://quera.org/problemset/652'>لینک سوال +</a>
+    </td>
+    <td>unsolve</td>
+  </tr>
+  <tr>
+    <td>39</td>
+    <td>2039</td>
+    <td>کوئرا</td>
+    <td>
+      اول‌بینی (متوسط)<br>
+      <a href='https://quera.org/problemset/649'>لینک سوال +</a>
+    </td>
+    <td>unsolve</td>
+  </tr>
+  <tr>
+    <td>40</td>
+    <td>2040</td>
+    <td>کوئرا</td>
+    <td>
+      جمع اعداد (متوسط)<br>
+      <a href='https://quera.org/problemset/637'>لینک سوال +</a>
+    </td>
+    <td>unsolve</td>
+  </tr>
+  <tr>
+    <td>41</td>
+    <td>2042</td>
+    <td>کوئرا</td>
+    <td>
+      محاسبه‌ ضرایب چندجمله‌ای (متوسط)<br>
+      <a href='https://quera.org/problemset/633'>لینک سوال +</a>
+    </td>
+    <td>unsolve</td>
+  </tr>
+  <tr>
+    <td>42</td>
+    <td>2042</td>
+    <td>کوئرا</td>
+    <td>
+      جست‌وجوی معکوس<br>
+      <a href='https://quera.org/problemset/632'>لینک سوال +</a>
+    </td>
+    <td>unsolve</td>
+  </tr>
+  <tr>
+    <td>43</td>
+    <td>2043</td>
+    <td>کوئرا</td>
+    <td>
+      توان دو (متوسط)<br>
+      <a href='https://quera.org/problemset/616'>لینک سوال +</a>
+    </td>
+    <td>unsolve</td>
+  </tr>
+  <tr>
+    <td>44</td>
+    <td>2044</td>
+    <td>کوئرا</td>
+    <td>
+      تاریخ تولد (متوسط)<br>
+      <a href='https://quera.org/problemset/615'>لینک سوال +</a>
+    </td>
+    <td>unsolve</td>
+  </tr>
+  <tr>
+    <td>45</td>
+    <td>2046</td>
+    <td>کوئرا</td>
+    <td>
+      مربع جادویی (متوسط)<br>
+      <a href='https://quera.org/problemset/611'>لینک سوال +</a>
+    </td>
+    <td>unsolve</td>
+  </tr>
+  <tr>
+    <td>46</td>
+    <td>2046</td>
+    <td>کوئرا</td>
+    <td>
+      حلزون ماتریسی (متوسط)<br>
+      <a href='https://quera.org/problemset/609'>لینک سوال +</a>
+    </td>
+    <td>unsolve</td>
+  </tr>
+  <tr>
+    <td>47</td>
+    <td>2047</td>
+    <td>کوئرا</td>
+    <td>
+      دترمینان ماتریس‌ها (متوسط)<br>
+      <a href='https://quera.org/problemset/608'>لینک سوال +</a>
+    </td>
+    <td>unsolve</td>
+  </tr>
+  <tr>
+    <td>48</td>
+    <td>2048</td>
+    <td>کوئرا</td>
+    <td>
+      زیررشته مشترک (متوسط)<br>
+      <a href='https://quera.org/problemset/639'>لینک سوال +</a>
+    </td>
+    <td>unsolve</td>
+  </tr>
+  <tr>
+    <td>49</td>
+    <td>2049</td>
+    <td>کوئرا</td>
+    <td>
+      ضرب ماتریس‌ها (متوسط)<br>
+      <a href='https://quera.org/problemset/607'>لینک سوال +</a>
+    </td>
+    <td>unsolve</td>
+  </tr>
+  <tr>
+    <td>50</td>
+    <td>2050</td>
+    <td>کوئرا</td>
+    <td>
+      پله‌نوردی (متوسط)<br>
+      <a href='https://quera.org/problemset/603'>لینک سوال +</a>
+    </td>
+    <td>unsolve</td>
+  </tr>
+  <tr>
+    <td>51</td>
+    <td>2051</td>
+    <td>کوئرا</td>
+    <td>
+      محاسبه برد پرتابه (متوسط)<br>
+      <a href='https://quera.org/problemset/599'>لینک سوال +</a>
+    </td>
+    <td>unsolve</td>
+  </tr>
+  <tr>
+    <td>52</td>
+    <td>2052</td>
+    <td>کوئرا</td>
+    <td>
+      جملات فیبوناچی (متوسط)<br>
+      <a href='https://quera.org/problemset/596'>لینک سوال +</a>
+    </td>
+    <td>unsolve</td>
+  </tr>
+  <tr>
+    <td>53</td>
+    <td>2053</td>
+    <td>کوئرا</td>
+    <td>
+      مبنا (متوسط)<br>
+      <a href='https://quera.org/problemset/594'>لینک سوال +</a>
+    </td>
+    <td>unsolve</td>
+  </tr>
+  <tr>
+    <td>54</td>
+    <td>2054</td>
+    <td>کوئرا</td>
+    <td>
+      ب.م.م و ک.م.م (متوسط)<br>
+      <a href='https://quera.org/problemset/590'>لینک سوال +</a>
+    </td>
+    <td>unsolve</td>
+  </tr>
+  <tr>
+    <td>55</td>
+    <td>2055</td>
+    <td>کوئرا</td>
+    <td>
+      انتقام از TA‌ سخت‌گیر (متوسط)<br>
+      <a href='https://quera.org/problemset/278'>لینک سوال +</a>
+    </td>
+    <td>unsolve</td>
+  </tr>
 <table>
 </div>
     <!-- <tr>
