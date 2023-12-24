@@ -24,7 +24,7 @@ or use the answers below.
         <a href='sajjad-esmaily'>sajjad esmaily</a>
     </td>
     <td>unsolved</td>
-<td>      <a href='./4021277298_/main.cpp'>solved</a>
+<td>      <a href='./4021277298/main.cpp'>solved</a>
     <td>unsolved</td>
   </tr>
 <table>
