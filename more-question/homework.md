@@ -479,7 +479,9 @@ Telegram ID: <a href="https://t.me/wolf2022">@wolf2022</a>
       تاریخ تولد (متوسط)<br>
       <a href='https://quera.org/problemset/615'>لینک سوال +</a>
     </td>
-    <td>unsolve</td>
+    <td>
+        <a href='/src/2044/'>solved</a>
+    </td>
   </tr>
   <tr>
     <td>45</td>
