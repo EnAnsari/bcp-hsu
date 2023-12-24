@@ -24,7 +24,7 @@ or use the answers below.
         <a href='sajjad-esmaily'>sajjad esmaily</a>
     </td>
     <td>unsolved</td>
-    <td>solved</td>
+      <a href='./STUDENT_ID/FILE_NAME'>solved</a>
     <td>unsolved</td>
   </tr>
 <table>
