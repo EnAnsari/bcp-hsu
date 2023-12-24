@@ -18,15 +18,15 @@ or use the answers below.
     <th>c++</th>
     <th>python</th>
   </tr>
-  <!-- <tr>
-    <td>NUM_OF_ANSWER</td>
+  <tr>
+    <td>2044</td>
     <td>
         <a href='sajjad-esmaily'>sajjad esmaily</a>
     </td>
     <td>unsolved</td>
     <td>unsolved</td>
-    <td>unsolved</td>
-  </tr> -->
+    <td>solved</td>
+  </tr>
 <table>
   <!-- <td>
       <a href='./STUDENT_ID/FILE_NAME'>solved</a>
