@@ -24,8 +24,8 @@ or use the answers below.
         <a href='sajjad-esmaily'>sajjad esmaily</a>
     </td>
     <td>unsolved</td>
-    <td>unsolved</td>
     <td>solved</td>
+    <td>unsolved</td>
   </tr>
 <table>
   <!-- <td>
