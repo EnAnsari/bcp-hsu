@@ -178,6 +178,7 @@ Telegram ID: <a href="https://t.me/wolf2022">@wolf2022</a>
     <td>14</td>
     <td>2014</td>
     <td>کوئرا</td>
+    <a href='https://quera.org/problemset/593'>لینک سوال +</a>
     <td>
       یافتن عدد اول (ساده)<br>
       <a href='https://quera.org/problemset/593'>لینک سوال +</a>
