@@ -18,13 +18,16 @@ or use the answers below.
     <th>c++</th>
     <th>python</th>
   </tr>
-   <tr>
-    <td>1</td>
+  <!-- <tr>
+    <td>NUM_OF_ANSWER</td>
     <td>
-        <a href='https://github.com/Sajjad-esmaily'>Sajad Esmaily</a>
+        <a href='YOUR_GITHUB_USERNAME'>NAME_AND_FAMILY</a>
     </td>
     <td>unsolved</td>
-    <td><a href='./4021277298/main.cpp'>solved</a></td>
     <td>unsolved</td>
-  </tr>
-</table>
+    <td>unsolved</td>
+  </tr> -->
+<table>
+  <!-- <td>
+      <a href='./STUDENT_ID/FILE_NAME'>solved</a>
+  </td> -->
