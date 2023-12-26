@@ -129,10 +129,7 @@ Telegram ID: <a href="https://t.me/wolf2022">@wolf2022</a>
       تابع تواندار (ساده)<br>
       <a href='https://quera.org/problemset/304'>لینک سوال +</a>
     </td>
-    <td>
-        <a href='/src/2009/'>solved</a>
-    </td>  
-  
+    <td>unsolve</td>
   </tr>
   <tr>
     <td>10</td>
@@ -178,7 +175,6 @@ Telegram ID: <a href="https://t.me/wolf2022">@wolf2022</a>
     <td>14</td>
     <td>2014</td>
     <td>کوئرا</td>
-    <a href='https://quera.org/problemset/593'>لینک سوال +</a>
     <td>
       یافتن عدد اول (ساده)<br>
       <a href='https://quera.org/problemset/593'>لینک سوال +</a>
