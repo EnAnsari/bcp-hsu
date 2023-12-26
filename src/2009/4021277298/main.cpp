@@ -4,7 +4,6 @@
 using namespace std; 
  
 void solve( long double number, int place) { 
-   cout << fixed; 
    cout << setprecision( place ); 
    cout << number << endl; 
 } 
