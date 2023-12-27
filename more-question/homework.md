@@ -129,7 +129,10 @@ Telegram ID: <a href="https://t.me/wolf2022">@wolf2022</a>
       تابع تواندار (ساده)<br>
       <a href='https://quera.org/problemset/304'>لینک سوال +</a>
     </td>
-    <td>unsolve</td>
+    <td>
+        <a href='/src/2009/'>solved</a>
+    </td>  
+  
   </tr>
   <tr>
     <td>10</td>
@@ -479,7 +482,9 @@ Telegram ID: <a href="https://t.me/wolf2022">@wolf2022</a>
       تاریخ تولد (متوسط)<br>
       <a href='https://quera.org/problemset/615'>لینک سوال +</a>
     </td>
-    <td>unsolve</td>
+    <td>
+        <a href='/src/2044/'>solved</a>
+    </td>
   </tr>
   <tr>
     <td>45</td>
@@ -559,7 +564,9 @@ Telegram ID: <a href="https://t.me/wolf2022">@wolf2022</a>
       جملات فیبوناچی (متوسط)<br>
       <a href='https://quera.org/problemset/596'>لینک سوال +</a>
     </td>
-    <td>unsolve</td>
+    <td>
+        <a href='/src/2052/'>solved</a>
+    </td>
   </tr>
   <tr>
     <td>53</td>
@@ -579,7 +586,9 @@ Telegram ID: <a href="https://t.me/wolf2022">@wolf2022</a>
       ب.م.م و ک.م.م (متوسط)<br>
       <a href='https://quera.org/problemset/590'>لینک سوال +</a>
     </td>
-    <td>unsolve</td>
+    <td>
+        <a href='/src/2054/'>solved</a>
+    </td>
   </tr>
   <tr>
     <td>55</td>
