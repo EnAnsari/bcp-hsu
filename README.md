@@ -10,9 +10,6 @@
     <a href='https://github.com/EnAnsari/EnAnsari/releases/download/0/TA-practice-rule.pdf'>آداب‌نامه</a>
     آن را مطالعه کنید.
 <br><br>
-
-تغییر
-
 <h4>
 <ul>
 <li><a href="/questions.md">سوالات و پاسخ تمرین‌های سرکلاسی (کد 0)</a></li><br>
