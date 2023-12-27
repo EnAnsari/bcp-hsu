@@ -76,7 +76,7 @@ Telegram ID: <a href="https://t.me/wolf2022">@wolf2022</a>
       کاشی های نمکستان (سخت)<br>
       <a href='https://quera.org/problemset/66860'>لینک سوال +</a>
     </td>
-    <td>unsolve</td>
+    <td><a href='/src/2004/'>solved</a></td>
     <!-- <td>
         <a href='/src/2004/'>solved</a>
     </td> -->
