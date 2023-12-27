@@ -229,7 +229,7 @@ Telegram ID: <a href="https://t.me/wolf2022">@wolf2022</a>
       عدد خودمقلوب (ساده)<br>
       <a href='https://quera.org/problemset/617'>لینک سوال +</a>
     </td>
-    <td><a href='/src/2020/'>solved</a></td>
+    <td>unsolve</td>
   </tr>
   <tr>
     <td>20</td>
