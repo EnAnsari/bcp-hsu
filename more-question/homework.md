@@ -554,7 +554,7 @@ Telegram ID: <a href="https://t.me/wolf2022">@wolf2022</a>
       محاسبه برد پرتابه (متوسط)<br>
       <a href='https://quera.org/problemset/599'>لینک سوال +</a>
     </td>
-    <td>unsolve</td>
+    <td><a href='/src/2051/'>solved</a></td>
   </tr>
   <tr>
     <td>52</td>
