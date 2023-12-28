@@ -282,7 +282,7 @@ Telegram ID: <a href="https://t.me/wolf2022">@wolf2022</a>
       فرزاد کارکن (ساده)<br>
       <a href='https://quera.org/problemset/658'>لینک سوال +</a>
     </td>
-    <td>unsolve</td>
+    <a href='/src/2036/'>'solved</a>
   </tr>
   <tr>
     <td>25</td>
@@ -332,7 +332,9 @@ Telegram ID: <a href="https://t.me/wolf2022">@wolf2022</a>
       کامل بودن یا نبودن (ساده)<br>
       <a href='https://quera.org/problemset/282'>لینک سوال +</a>
     </td>
-    <td>unsolve</td>
+    <td>
+      <a href='/src/2029/'>solved</a>
+     </td>
   </tr>
   <tr>
     <td>30</td>
