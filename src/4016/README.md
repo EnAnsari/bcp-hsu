@@ -21,7 +21,7 @@ or use the answers below.
   <<tr>
     <td>1</td>
     <td>
-        <a href='https://github.com/AshkanRN'>Ashkan Rafie Nezhad</a>
+        <a href='https://github.com/AshkanRN'>Ashkan Rafiei Nezhad</a>
     </td>
     <td>unsolved</td>
     <td>  <a href='./4021277403/4016.cpp'>solved</a></td>
