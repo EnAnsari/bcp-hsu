@@ -1,13 +1,15 @@
 # مبانی کامپیوتر و برنامه‌نویسی
   [![en](https://img.shields.io/badge/click_to_README-English-red.svg)](/doc/README-EN.md)
-  [![lc](https://img.shields.io/badge/license-MIT-blue.svg)](/blob/main/LICENSE)
+  [![lc](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
   <br><br>
     🚀 <strong>ترم مهر 1402
-  <a href='https://github.com/EnAnsari/EnAnsari/blob/main/list-of-hsu.md'>دانشگاه حکیم سبزواری</a></strong>
+  <a href='https://github.com/EnAnsari/EnAnsari/blob/main/list-of-hsu.md'>دانشگاه حکیم سبزواری</a></strong><br><br>
+    📃 قبل از پول ریکوئست
+    <a href='https://github.com/EnAnsari/bcp-hsu/releases/download/3.0.0/teaching-submit-question.pdf'>نحوه</a>
+    آن و
+    <a href='https://github.com/EnAnsari/EnAnsari/releases/download/0/TA-practice-rule.pdf'>آداب‌نامه</a>
+    آن را مطالعه کنید.
 <br><br>
-
-
-
 <h4>
 <ul>
 <li><a href="/questions.md">سوالات و پاسخ تمرین‌های سرکلاسی (کد 0)</a></li><br>
