@@ -6,13 +6,13 @@ int i,MaxDif,index,D,A[50];
 
 cout<<"Enter 50 Numbers:"<<endl;
 
- for(i=0;i<10;i++) {cin>>A[i];}
+ for(i=0;i<50;i++) {cin>>A[i];}
 
  MaxDif = A[1] - A[0];
  if (MaxDif < 0)
   MaxDif *= (-1);
 
- for(i=1;i<10;i++){
+ for(i=1;i<50;i++){
     D = A[i] - A[i-1] ;
     if(D < 0) D *= (-1);
     if (D > MaxDif) {MaxDif = D;
