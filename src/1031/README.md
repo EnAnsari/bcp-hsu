@@ -26,7 +26,7 @@ or use the answers below.
     <td>unsolved</td>
     <td><a href='./4021277287/1031.cpp'>solved</a></td>
     <td>unsolved</td>
-  </tr> -->
+  </tr>
 <table>
   <!-- <td>
       <a href='./STUDENT_ID/FILE_NAME'>solved</a>
