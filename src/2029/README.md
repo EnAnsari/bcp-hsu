@@ -24,7 +24,7 @@ or use the answers below.
         <a href='https://https://github.com/M1383z/'>mobina zohani</a>
     </td>
     <td>unsolved</td>
-    <td<a href='./4021277254/kamel.cpp'>solved</a>td>
+    <td></td><a href='./4021277254/main.cpp'>solved</a>td>
     <td>unsolved</td>
   </tr>
 <table>
