@@ -40,7 +40,7 @@ or use the answers below.
   <tr>
     <td>2</td>
     <td>
-     <a href='https://github.com/ashkanrn'>Ashkan Rafie Nezhad</a>
+     <a href='https://github.com/ashkanrn'>Ashkan Rafiei Nezhad</a>
     </td>
     <td>unsolved</td>
     <td>unsolved</td>     
