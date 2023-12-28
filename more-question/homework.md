@@ -252,7 +252,7 @@ Telegram ID: <a href="https://t.me/wolf2022">@wolf2022</a>
       سیگماگیر (ساده)<br>
       <a href='https://quera.org/problemset/647'>لینک سوال +</a>
     </td>
-    <td>unsolve</td>
+    <td><a href='/src/2021/'>solved</a></td>
   </tr>
   <tr>
     <td>22</td>
