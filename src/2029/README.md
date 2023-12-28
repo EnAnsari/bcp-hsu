@@ -19,7 +19,7 @@ or use the answers below.
     <th>python</th>
   </tr>
   <tr>
-    <td>NUM_OF_ANSWER</td>
+    <td>main.cpp</td>
     <td>
         <a href='https://https://github.com/M1383z/'>mobina zohani</a>
     </td>
