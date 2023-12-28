@@ -242,7 +242,7 @@ Telegram ID: <a href="https://t.me/wolf2022">@wolf2022</a>
       چاپ لوزی (ساده)<br>
       <a href='https://quera.org/problemset/618'>لینک سوال +</a>
     </td>
-    <td>  <a href='/src/2021/'>solved</a></td>
+    <td><a href='/src/2020/'>solved</a></td>
   </tr>
   <tr>
     <td>21</td>
