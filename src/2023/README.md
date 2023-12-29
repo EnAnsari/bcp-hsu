@@ -36,7 +36,6 @@ or use the answers below.
     <td>unsolved</td>
     <td>unsolved</td>
   </tr> -->
-<table>
   <!-- <td>
       <a href='./STUDENT_ID/FILE_NAME'>solved</a>
   </td> -->
