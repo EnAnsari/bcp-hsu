@@ -423,12 +423,13 @@ Telegram ID: <a href="https://t.me/wolf2022">@wolf2022</a>
       <a href='https://quera.org/problemset/652'>لینک سوال +</a>
    </td>
     <td>
-       <a href='/src/2039/'>solved</a>
-   </td>
-    <td><a href='/src/2039/'>solved</a></td>
+  <a href='/src/2039/'>solved</a></td>
   </tr>
   <tr>
     <td>39</td>
+    <td>2039</td>
+    <td>کوئرا</td>
+    <td>
       اول‌بینی (متوسط)<br>
       <a href='https://quera.org/problemset/649'>لینک سوال +</a>
     </td>
