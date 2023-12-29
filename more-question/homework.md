@@ -266,7 +266,7 @@ Telegram ID: <a href="https://t.me/wolf2022">@wolf2022</a>
   </tr>
   <tr>
     <td>23</td>
-    <td>2023</td>
+        <a href='/src/2023/'>solved</a>
     <td>کوئرا</td>
     <td>
       سه‌تایی فیثاغورثی (ساده)<br>
