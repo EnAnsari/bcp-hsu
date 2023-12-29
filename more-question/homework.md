@@ -223,7 +223,7 @@ Telegram ID: <a href="https://t.me/wolf2022">@wolf2022</a>
       کاشی‌کاری (ساده)<br>
       <a href='https://quera.org/problemset/605'>لینک سوال +</a>
     </td>
-    <td>unsolve</td>
+    <td><a href='/src/2019/'>solved</a></td>
   </tr>
   <tr>
     <td>19</td>
