@@ -26,7 +26,7 @@ or use the answers below.
     <th>python</th>
   </tr>
   <tr>
-    <td>NUM_OF_ANSWER</td>
+    <td>2</td>
     <td>
         <a href='https://github.com//dnyesf'>Dani Eskandari</a>
     </td>
