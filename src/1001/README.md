@@ -26,7 +26,7 @@ or use the answers below.
     <th>python</th>
   </tr>
   <tr>
-    <td>2</td>
+    <th>2</th>
     <td>
         <a href='https://github.com//dnyesf'>Dani Eskandari</a>
     </td>
