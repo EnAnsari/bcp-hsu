@@ -93,13 +93,13 @@ Telegram ID: <a href="https://t.me/wolf2022">@wolf2022</a>
   </tr>
   <tr>
     <td>6</td>
-    <td><a href='/src/2006'>solved</a></td>
+    <td>2006</td>
     <td>کوئرا</td>
     <td>
       اعداد اول (ساده)<br>
       <a href='https://quera.org/problemset/293'>لینک سوال +</a>
     </td>
-    <td></td>
+    <td><a href='/src/2006/'>solved</a></td>
   </tr>
   <tr>
     <td>7</td>
