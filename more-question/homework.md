@@ -423,7 +423,7 @@ Telegram ID: <a href="https://t.me/wolf2022">@wolf2022</a>
       اعداد شریفی (متوسط)<br>
       <a href='https://quera.org/problemset/652'>لینک سوال +</a>
    </td>
-    <td>unsolve</td>
+    <a href='/src/2039/'>solved</a>
   </tr>
   <tr>
     <td>39</td>
