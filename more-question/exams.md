@@ -49,7 +49,7 @@ Telegram ID: <a href="https://t.me/wolf2022">@wolf2022</a>
     </td>
     <td></td>
     <td dir='ltr'>
-      1 : 4008 : unsolve<br>
+      1 : 4008 : <a href='/src/4008/'>solved</a><br>
       2 : 4009 : unsolve<br>
       3 : 4010 : unsolve<br>
     </td>
