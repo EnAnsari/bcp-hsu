@@ -3,7 +3,7 @@ using namespace std;
 int main(){
 int i,n;
 int s=0,sum=0,x=0;
-for(i=1;i<=5;i++){
+for(i=1;i<=1000;i++){
 cin>>n;
 while(n>0){
  x=n%10;
