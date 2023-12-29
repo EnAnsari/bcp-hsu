@@ -363,7 +363,7 @@ Telegram ID: <a href="https://t.me/wolf2022">@wolf2022</a>
       باغچه رز (متوسط)<br>
       <a href='https://quera.org/problemset/66867'>لینک سوال +</a>
     </td>
-    <td>unsolve</td>
+    <td> <a href='/src/2000/'>solved</a>
   </tr>
   <tr>
     <td>33</td>
