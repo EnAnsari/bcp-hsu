@@ -27,14 +27,6 @@ or use the answers below.
     <td><a href='./4021277209/main.cpp'>solved</a></td>
     <td>unsolved</td>
   </tr>
-  <table>
-  <tr>
-    <th>Num</th>
-    <th>Name</th>
-    <th>Algorithm</th>
-    <th>c++</th>
-    <th>python</th>
-  </tr>
   <tr>
     <td>2</td>
     <td>
