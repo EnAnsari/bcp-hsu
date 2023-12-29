@@ -242,7 +242,7 @@ Telegram ID: <a href="https://t.me/wolf2022">@wolf2022</a>
       چاپ لوزی (ساده)<br>
       <a href='https://quera.org/problemset/618'>لینک سوال +</a>
     </td>
-    <td>unsolve</td>
+    <td><a href='/src/2020/'>solved</a></td>
   </tr>
   <tr>
     <td>21</td>
@@ -252,7 +252,7 @@ Telegram ID: <a href="https://t.me/wolf2022">@wolf2022</a>
       سیگماگیر (ساده)<br>
       <a href='https://quera.org/problemset/647'>لینک سوال +</a>
     </td>
-    <td>unsolve</td>
+    <td><a href='/src/2021/'>solved</a></td>
   </tr>
   <tr>
     <td>22</td>
@@ -282,7 +282,6 @@ Telegram ID: <a href="https://t.me/wolf2022">@wolf2022</a>
       فرزاد کارکن (ساده)<br>
       <a href='https://quera.org/problemset/658'>لینک سوال +</a>
     </td>
-    <td>unsolve</td>
   </tr>
   <tr>
     <td>25</td>
@@ -332,7 +331,9 @@ Telegram ID: <a href="https://t.me/wolf2022">@wolf2022</a>
       کامل بودن یا نبودن (ساده)<br>
       <a href='https://quera.org/problemset/282'>لینک سوال +</a>
     </td>
-    <td>unsolve</td>
+    <td>
+      <a href='/src/2029/'>solved</a>
+     </td>
   </tr>
   <tr>
     <td>30</td>
