@@ -521,7 +521,7 @@ Telegram ID: <a href="https://t.me/wolf2022">@wolf2022</a>
       دترمینان ماتریس‌ها (متوسط)<br>
       <a href='https://quera.org/problemset/608'>لینک سوال +</a>
     </td>
-    <td>unsolve</td>
+    <td><a href='/src/2047/'>solved</a></td>
   </tr>
   <tr>
     <td>48</td>
