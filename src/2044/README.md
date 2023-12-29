@@ -22,20 +22,9 @@ or use the answers below.
     <td>1</td>
     <td>
         <a href='https://github.com/sajjad-esmaily'>sajjad esmaily</a>
-    <td>unsolved</td>
-    <td>  <a href='./4021277298/main.cpp'>solved</a> </td>
-    <td>unsolved</td>
-<table>
-  <!-- <td>
-      <a href='./STUDENT_ID/FILE_NAME'>solved</a>
-  </td> -->
-<table>
-  <tr>
-    <th>Num</th>
-    <th>Name</th>
-    <th>Algorithm</th>
-    <th>c++</th>
-    <th>python</th>
+        <td>unsolved</td>
+        <td>  <a href='./4021277298/main.cpp'>solved</a> </td>
+        <td>unsolved</td>
   </tr>
   <tr>
     <td>2</td>
@@ -44,9 +33,10 @@ or use the answers below.
     </td>
     <td>unsolved</td>
     <td>unsolved</td>     
-    <td>      <a href='./4021277403/Date.py'>solved</a>  </td>
+    <td><a href='./4021277403/Date.py'>solved</a></td>
   </tr>
-<table>
+</table>
+
   <!-- <td>
       <a href='./STUDENT_ID/FILE_NAME'>solved</a>
   </td> -->
