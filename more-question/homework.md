@@ -274,8 +274,9 @@ Telegram ID: <a href="https://t.me/wolf2022">@wolf2022</a>
       سه‌تایی فیثاغورثی (ساده)<br>
       <a href='https://quera.org/problemset/654'>لینک سوال +</a>
     </td>
-    
-        <td><a href='/src/2023/'>solved</a></td>
+     <td>
+        <a href='/src/2023/'>solved</a>
+     </td>
   </tr>
   <tr>
     <td>24</td>
