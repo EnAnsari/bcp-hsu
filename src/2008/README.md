@@ -28,7 +28,7 @@ or use the answers below.
     <td>unsolved</td>
   </tr> -->
    <tr>
-    <td>NUM_OF_ANSWER</td>
+    <td>1</td>
     <td>
         <a href='https://github.com/dnyesf'>Dani Eskandari</a>
     </td>
