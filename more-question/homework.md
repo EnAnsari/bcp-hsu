@@ -317,7 +317,7 @@ Telegram ID: <a href="https://t.me/wolf2022">@wolf2022</a>
       کلاس کد! (ساده)<br>
       <a href='https://quera.org/problemset/66864'>لینک سوال +</a>
     </td>
-    <td>unsolve</td>
+    <td>   <a href='/src/2027/'>solved</a> </td>
   </tr>
   <tr>
     <td>28</td>
