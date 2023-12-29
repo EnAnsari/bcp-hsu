@@ -99,7 +99,7 @@ Telegram ID: <a href="https://t.me/wolf2022">@wolf2022</a>
       اعداد اول (ساده)<br>
       <a href='https://quera.org/problemset/293'>لینک سوال +</a>
     </td>
-    <td>unsolve</td>
+   <a href='/src/2006/'>solved</a>
   </tr>
   <tr>
     <td>7</td>
