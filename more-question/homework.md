@@ -424,6 +424,7 @@ Telegram ID: <a href="https://t.me/wolf2022">@wolf2022</a>
    </td>
     <td>
        <a href='/src/2039/'>solved</a>
+   </td>
   </tr>
   <tr>
     <td>39</td>
