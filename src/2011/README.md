@@ -18,7 +18,7 @@ or use the answers below.
     <th>c++</th>
     <th>python</th>
   </tr>
-  <!-- <tr>
+  <tr>
     <td>NUM_OF_ANSWER</td>
     <td>
         <a href='https://github.com/M1383z'>mobinazohani</a>
@@ -26,7 +26,7 @@ or use the answers below.
     <td>unsolved</td>
     <td> <a href='./4021277254/main4.cpp'>solved</a></td>
     <td>unsolved</td>
-  </tr> -->
+  </tr>
 <table>
   <!-- <td>
       <a href='./STUDENT_ID/FILE_NAME'>solved</a>
