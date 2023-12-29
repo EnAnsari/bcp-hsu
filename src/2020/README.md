@@ -38,7 +38,7 @@ or use the answers below.
   <tr>
     <td>2</td>
     <td>
-        <a href='https://github.com/masoumesaber'>MasoumehSaber</a>
+        <a href='https://github.com/masoumesaber'>Masoumeh Saber</a>
     </td>
     <td>unsolved</td>
     <td><a href='./4021277094/main1.cpp'>solved</a></td>
