@@ -19,9 +19,9 @@ or use the answers below.
     <th>python</th>
   </tr>
   <tr>
-    <td>NUM_OF_ANSWER</td>
+    <td>1</td>
     <td>
-        <a href='https://https://github.com/M1383z/'>mobina zohani</a>
+        <a href='https://github.com/M1383z/'>mobina zohani</a>
     </td>
     <td>unsolved</td>
     <td><a href='./4021277254/main.cpp'>solved</a></td>

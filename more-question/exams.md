@@ -49,9 +49,9 @@ Telegram ID: <a href="https://t.me/wolf2022">@wolf2022</a>
     </td>
     <td></td>
     <td dir='ltr'>
-      1 : 4008 : unsolve<br>
-      2 : 4009 : unsolve<br>
-      3 : 4010 : unsolve<br>
+      1 : 4008 : <a href='/src/4008/'>solved</a><br>
+      2 : 4009 : <a href='/src/4009/'>solved</a><br>
+      3 : 4010 : <a href='/src/4010/'>solved</a><br>
     </td>
   </tr>
   <tr>
@@ -62,8 +62,8 @@ Telegram ID: <a href="https://t.me/wolf2022">@wolf2022</a>
     </td>
     <td></td>
     <td dir='ltr'>
-      1 : 4011 : unsolve<br>
-      2 : 4012 : unsolve<br>
+      1 : 4011 : <a href='/src/4011/'>solved</a><br>
+      2 : 4012 : <a href='/src/4012/'>solved</a><br>
       3 : 4013 : unsolve<br>
     </td>
   </tr>
@@ -75,9 +75,9 @@ Telegram ID: <a href="https://t.me/wolf2022">@wolf2022</a>
     </td>
     <td></td>
     <td dir='ltr'>
-      1 : 4014 : unsolve<br>
+      1 : 4014 : <a href='/src/4014/'>solved</a><br>
       2 : 4015 : unsolve<br>
-      3 : 4016 : unsolve<br>
+      3 : 4016 : <a href='/src/4016/'>solved</a><br>
     </td>
   </tr>
   <tr>
@@ -88,8 +88,8 @@ Telegram ID: <a href="https://t.me/wolf2022">@wolf2022</a>
     </td>
     <td></td>
     <td dir='ltr'>
-      1 : 4017 :<a href='/src/4017/'>solved</a><br>
-      2 : 4018 : <a href='/src/4018/'>solved</a><br>
+      1 : 4017 : <a href='/src/4017/'>solved</a><br>
+      2 : 4018 : unsolve<br>
       3 : 4019 : unsolve<br>
       4 : 4020 : unsolve<br>
       5 : 4021 : unsolve<br>

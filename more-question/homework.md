@@ -76,7 +76,7 @@ Telegram ID: <a href="https://t.me/wolf2022">@wolf2022</a>
       کاشی های نمکستان (سخت)<br>
       <a href='https://quera.org/problemset/66860'>لینک سوال +</a>
     </td>
-    <td>unsolve</td>
+    <td><a href='/src/2004/'>solved</a></td>
     <!-- <td>
         <a href='/src/2004/'>solved</a>
     </td> -->
@@ -119,7 +119,7 @@ Telegram ID: <a href="https://t.me/wolf2022">@wolf2022</a>
       دنباله‌ی فیبوناچی (ساده)<br>
       <a href='https://quera.org/problemset/303'>لینک سوال +</a>
     </td>
-    <td>unsolve</td>
+    <td><a href='/src/2008/'>solved</a></td>
   </tr>
   <tr>
     <td>9</td>
@@ -192,7 +192,8 @@ Telegram ID: <a href="https://t.me/wolf2022">@wolf2022</a>
       حلزون مختصاتی (ساده)<br>
       <a href='https://quera.org/problemset/597'>لینک سوال +</a>
     </td>
-    <td>unsolve</td>
+    <td><a href='/src/2015/'>solved</a></td>
+  <tr>
   </tr>
   <tr>
     <td>16</td>
@@ -242,7 +243,7 @@ Telegram ID: <a href="https://t.me/wolf2022">@wolf2022</a>
       چاپ لوزی (ساده)<br>
       <a href='https://quera.org/problemset/618'>لینک سوال +</a>
     </td>
-    <td>unsolve</td>
+    <td><a href='/src/2020/'>solved</a></td>
   </tr>
   <tr>
     <td>21</td>
@@ -252,7 +253,7 @@ Telegram ID: <a href="https://t.me/wolf2022">@wolf2022</a>
       سیگماگیر (ساده)<br>
       <a href='https://quera.org/problemset/647'>لینک سوال +</a>
     </td>
-    <td>unsolve</td>
+    <td><a href='/src/2021/'>solved</a></td>
   </tr>
   <tr>
     <td>22</td>
@@ -282,7 +283,6 @@ Telegram ID: <a href="https://t.me/wolf2022">@wolf2022</a>
       فرزاد کارکن (ساده)<br>
       <a href='https://quera.org/problemset/658'>لینک سوال +</a>
     </td>
-    <a href='/src/2036/'>'solved</a>
   </tr>
   <tr>
     <td>25</td>
@@ -424,7 +424,7 @@ Telegram ID: <a href="https://t.me/wolf2022">@wolf2022</a>
       اعداد شریفی (متوسط)<br>
       <a href='https://quera.org/problemset/652'>لینک سوال +</a>
     </td>
-    <td>unsolve</td>
+     <td>unsolve</td>
   </tr>
   <tr>
     <td>39</td>
@@ -556,7 +556,7 @@ Telegram ID: <a href="https://t.me/wolf2022">@wolf2022</a>
       محاسبه برد پرتابه (متوسط)<br>
       <a href='https://quera.org/problemset/599'>لینک سوال +</a>
     </td>
-    <td>unsolve</td>
+    <td><a href='/src/2051/'>solved</a></td>
   </tr>
   <tr>
     <td>52</td>
@@ -578,7 +578,9 @@ Telegram ID: <a href="https://t.me/wolf2022">@wolf2022</a>
       مبنا (متوسط)<br>
       <a href='https://quera.org/problemset/594'>لینک سوال +</a>
     </td>
-    <td>unsolve</td>
+    <td>
+        <a href='/src/2053/'>solved</a>
+    </td>
   </tr>
   <tr>
     <td>54</td>
@@ -588,7 +590,9 @@ Telegram ID: <a href="https://t.me/wolf2022">@wolf2022</a>
       ب.م.م و ک.م.م (متوسط)<br>
       <a href='https://quera.org/problemset/590'>لینک سوال +</a>
     </td>
-    <td>unsolve</td>
+    <td>
+        <a href='/src/2054/'>solved</a>
+    </td>
   </tr>
   <tr>
     <td>55</td>
