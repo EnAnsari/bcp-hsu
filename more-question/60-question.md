@@ -25,7 +25,7 @@ Telegram ID: <a href="https://t.me/wolf2022">@wolf2022</a>
     <td>1002</td>
     <td>برنامه‌های ساده</td>
     <td>برنامه‌ای بنویسید که یک عدد دریافت کند و زوج و فرد بودن آن را گزارش کند</td>
-    <td>unsolved</td>
+    <td><a href='/src/1003/'>solved</a></td>
   </tr>
   <tr>
     <td>3</td>
