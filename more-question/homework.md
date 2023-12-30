@@ -162,7 +162,7 @@ Telegram ID: <a href="https://t.me/wolf2022">@wolf2022</a>
       فاکتوریل (ساده)<br>
       <a href='https://quera.org/problemset/589'>لینک سوال +</a>
     </td>
-    <td>unsolve</td>
+    <td><a href='/src/2012/'>solved</a></td>
   </tr>
   <tr>
     <td>13</td>
