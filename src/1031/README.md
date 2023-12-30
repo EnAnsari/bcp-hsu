@@ -19,14 +19,14 @@ or use the answers below.
     <th>python</th>
   </tr>
    <tr>
-    <td>NUM_OF_ANSWER</td>
+    <td>1</td>
     <td>
         <a href='https://github.com/Shadim09'>Shadi Moradi</a>
     </td>
     <td>unsolved</td>
-    <td><a href='./4021277187/1031.cpp'>solved</a></td>
+    <td><a href='./4021277287/1031.cpp'>solved</a></td>
     <td>unsolved</td>
-  </tr> -->
+  </tr>
 <table>
   <!-- <td>
       <a href='./STUDENT_ID/FILE_NAME'>solved</a>
