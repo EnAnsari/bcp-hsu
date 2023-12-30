@@ -541,7 +541,7 @@ Telegram ID: <a href="https://t.me/wolf2022">@wolf2022</a>
       ضرب ماتریس‌ها (متوسط)<br>
       <a href='https://quera.org/problemset/607'>لینک سوال +</a>
     </td>
-    <td>unsolve</td>
+    <td><a href='/src/2049/'>solved</a></td>
   </tr>
   <tr>
     <td>50</td>
