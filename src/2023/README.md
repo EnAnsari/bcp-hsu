@@ -27,6 +27,15 @@ or use the answers below.
     <td><a href='./4021277232/main.cpp'>solved</a></td>
     <td>unsolved</td>
   </tr>
+  <tr>
+    <td>2</td>
+    <td>
+        <a href='https://github.com/AliakbarSoli'>Aliakbar Soltani</a>
+    </td>
+    <td>unsolved</td>
+    <td><a href='./4021277130/main.cpp'>solved</a></td>
+    <td><a href='./4021277130/main.py'>solved</a></td>
+  </tr>
 <table>
   <!-- <td>
       <a href='./STUDENT_ID/FILE_NAME'>solved</a>
