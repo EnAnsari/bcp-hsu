@@ -59,7 +59,7 @@
 <br>c – تعداد عناصر صفر ماتریس
 <br>d- کوچکترین عنصر قطر فرعی ماتریس
     </td>
-    <td>unsolved</td>
+    <td><a href='/src/3004'>solved</a></td>
   </tr>
   <tr>
     <td>5</td>
