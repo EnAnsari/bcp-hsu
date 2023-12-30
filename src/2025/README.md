@@ -24,7 +24,7 @@ or use the answers below.
         <a href='https://github.com/mdezfr'>Maede Zaferanieh</a>
     </td>
     <td>unsolved</td>
-    <td><a href='./4021277378/2025'>solved</a></td>
+    <td><a href='./4021277378/2025.cpp'>solved</a></td>
     <td>unsolved</td>
   </tr>
   <!-- <tr>
