@@ -36,14 +36,14 @@ else{
 // A
 // B
 bool upper = true;
-int vector = -1;
-for (int i = 0; i < Ia && upper == true; i++)
+int vector = Ia;
+for (int i = Ia - 1; i >= 0 && upper == true; i--)
 {
-    for (int j = 0; j < Ja && upper == true; j++)
+    for (int j = Ja - 1; j >= 0 && upper == true; j--)
     {
         if (i == j)
         {
-            vector++;
+            vector--;
         }
         if (i < vector && j < vector)
         {
