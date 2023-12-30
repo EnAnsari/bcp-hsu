@@ -1,24 +1,32 @@
 #include <iostream>
+#include <cmath>
 using namespace std;
-int main(){
-    int a,b,i,j,n;
-    cin>>a;
-    cin>>b;
-        for ( i = a; i <= b; i++)
+int main()
+{
+    int a; cin>>a;
+    int b; cin>>b;
+    int max = (a > b) ? a : b;
+    int min = (a > b) ? b : a;
+    int i;
+    for (i = min ; i <= max ; i++)
+    {
+        bool flg = true;
+        for (int j = 2; j < i ; j++)
         {
-            n=0;
-            for ( j = 2; j < i; j++)
+            if (i%j == 0)
             {
-                if(i%j==0)
-                {
-                    n++;
-                }
-            }
-            if(n==0)
-            {
-                cout<<i<<endl;
-            }
-            
+                flg = false;
+            } 
         }
+
+        if (flg && i!=1)
+        {
+            cout<< i <<endl;
+        }
+        
+    }
     
+
+
+    return 0;
 }
