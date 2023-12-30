@@ -43,16 +43,16 @@ for (int i = 0; i < Ia; i++)
 cout<<max<<endl;
 // B
 // C
-int max = A[0][1],vector = -1;
-for (int i = 0; i < Ia; i++)
+int max = A[1][0], vector = Ia ;
+for (int i = Ia - 1; i >= 0; i--)
 {
-    for (int j = 0; j < Ja; j++)
+    for (int j = Jb - 1; j >= 0; j--)
     {
         if (i == j)
         {
-            vector++;
+            vector--;
         }
-        if (i > vector && j > vector)
+        if (i < vector && j < vector)
         {
             if (A[i][j] > max)
             {
