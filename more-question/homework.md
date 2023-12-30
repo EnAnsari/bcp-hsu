@@ -149,7 +149,7 @@ Telegram ID: <a href="https://t.me/wolf2022">@wolf2022</a>
       ماکزیمم (ساده)<br>
       <a href='https://quera.org/problemset/588'>لینک سوال +</a>
     </td>
-    <td>unsolve</td>
+    <td><a href='/src/2011/'>solved</a></td>
   </tr>
   <tr>
     <td>12</td>
@@ -261,7 +261,9 @@ Telegram ID: <a href="https://t.me/wolf2022">@wolf2022</a>
       مبنای آینه‌ای (ساده)<br>
       <a href='https://quera.org/problemset/651'>لینک سوال +</a>
     </td>
-    <td>unsolve</td>
+     <td>
+      <a href='/src/2022/'>solved</a>
+     </td>
   </tr>
   <tr>
     <td>23</td>
@@ -271,7 +273,9 @@ Telegram ID: <a href="https://t.me/wolf2022">@wolf2022</a>
       سه‌تایی فیثاغورثی (ساده)<br>
       <a href='https://quera.org/problemset/654'>لینک سوال +</a>
     </td>
-    <td>unsolve</td>
+     <td>
+        <a href='/src/2023/'>solved</a>
+     </td>
   </tr>
   <tr>
     <td>24</td>
