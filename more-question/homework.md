@@ -172,7 +172,7 @@ Telegram ID: <a href="https://t.me/wolf2022">@wolf2022</a>
       چاپ مربع (ساده)<br>
       <a href='https://quera.org/problemset/591'>لینک سوال +</a>
     </td>
-    <td>unsolve</td>
+    <td>        <a href='/src/2013/'>solved</a></td>
   </tr>
   <tr>
     <td>14</td>
