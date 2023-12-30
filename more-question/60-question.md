@@ -130,7 +130,7 @@ Telegram ID: <a href="https://t.me/wolf2022">@wolf2022</a>
     <td>1017</td>
     <td>ساختار تکرار</td>
     <td>برنامه‌ای بنویسید که از ورودی یک عدد دریافت کند و مجموع ارقامش را چاپ کند</td>
-    <td>unsolved</td>
+    <td><a href='/src/1017/'>solved</a></td>
   </tr>
     <tr>
     <td>18</td>
