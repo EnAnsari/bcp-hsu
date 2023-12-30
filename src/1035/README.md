@@ -19,7 +19,7 @@ or use the answers below.
     <th>python</th>
   </tr>
   <tr>
-    <td>35</td>
+    <td>1</td>
     <td>
         <a href='https://github.com/Mehraneh-seifari'>Mehraneh</a>
     </td>
