@@ -152,7 +152,7 @@ Telegram ID: <a href="https://t.me/wolf2022">@wolf2022</a>
       ماکزیمم (ساده)<br>
       <a href='https://quera.org/problemset/588'>لینک سوال +</a>
     </td>
-    <td><a href='/src/2011/'>solved</a></td>
+    <td><a href='/src/2012/'>solved</a></td>
   </tr>
   <tr>
     <td>12</td>
