@@ -285,7 +285,7 @@ Telegram ID: <a href="https://t.me/wolf2022">@wolf2022</a>
     <td>1039</td>
     <td>آرایه</td>
     <td>برنامه ای بنویسید که دو آرایه دریافت کند و مجموع دو آرایه را چاپ کند</td>
-    <td>unsolved</td>
+    <td>  <a href='/src/1039/'>solved</a></td>
   </tr>
   <tr>
     <td>40</td>
