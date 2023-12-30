@@ -1,17 +1,18 @@
 #include<iostream>
 using namespace std;
 int main(){
-int i,j,s;
-for(i=1000;i<10000;i++){
-int n=0;
-for(j=1;j<=i;j++){
-    if(i%j==0)
-n++;
-if(n>7){
-cout<<i<<endl;
-break;
+int i,n;
+int avg=0,sum=0,f=0;
+for(i=1;i<=100;i++){
+ cin>>n;
+   if(n%2==0) {
+   sum=n+sum,f=f+1;
+
+  avg=sum/f;
+   }
 }
-}
-}
-return 0;
+
+cout<<avg;
+
+
 }
