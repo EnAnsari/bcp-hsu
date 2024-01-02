@@ -40,6 +40,4 @@ int main()
 	}
 	cout<<v;
 	return 0;
-
-
 }
