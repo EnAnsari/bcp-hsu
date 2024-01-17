@@ -20,7 +20,6 @@ or use the answers below.
   </tr>
   <tr>
     <td>1</td>
-
     <td>unsolved</td>
     <td>
         <a href='https://github.com/MostafaTymori'>Mostafa Tymori</a>
