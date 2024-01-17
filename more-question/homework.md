@@ -162,7 +162,9 @@ Telegram ID: <a href="https://t.me/wolf2022">@wolf2022</a>
       فاکتوریل (ساده)<br>
       <a href='https://quera.org/problemset/589'>لینک سوال +</a>
     </td>
-    <td><a href='/src/2012/'>solved</a></td>
+    <td>
+        <a href='/src/2012/'>solved</a>
+    </td>
   </tr>
   <tr>
     <td>13</td>
@@ -182,7 +184,9 @@ Telegram ID: <a href="https://t.me/wolf2022">@wolf2022</a>
       یافتن عدد اول (ساده)<br>
       <a href='https://quera.org/problemset/593'>لینک سوال +</a>
     </td>
-    <td>unsolve</td>
+    <td>
+        <a href='/src/2014/'>solved</a>
+    </td>
   </tr>
   <tr>
     <td>15</td>
