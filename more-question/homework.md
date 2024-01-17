@@ -89,7 +89,7 @@ Telegram ID: <a href="https://t.me/wolf2022">@wolf2022</a>
       مربع توخالی (ساده)<br>
       <a href='https://quera.org/problemset/283'>لینک سوال +</a>
     </td>
-    <td>unsolve</td>
+    <td><a href='/src/2005/'>solved</a></td>
   </tr>
   <tr>
     <td>6</td>
@@ -99,7 +99,7 @@ Telegram ID: <a href="https://t.me/wolf2022">@wolf2022</a>
       اعداد اول (ساده)<br>
       <a href='https://quera.org/problemset/293'>لینک سوال +</a>
     </td>
-    <td>unsolve</td>
+    <td><a href='/src/2006/'>solved</a></td>
   </tr>
   <tr>
     <td>7</td>
@@ -109,7 +109,7 @@ Telegram ID: <a href="https://t.me/wolf2022">@wolf2022</a>
       مربع خاص (ساده)<br>
       <a href='https://quera.org/problemset/296'>لینک سوال +</a>
     </td>
-    <td>unsolve</td>
+    <td><a href='/src/2007/'>solved</a></td>
   </tr>
   <tr>
     <td>8</td>
@@ -142,7 +142,7 @@ Telegram ID: <a href="https://t.me/wolf2022">@wolf2022</a>
       ب.م.م (ساده)<br>
       <a href='https://quera.org/problemset/305'>لینک سوال +</a>
     </td>
-    <td>unsolve</td>
+    <td><a href='/src/2010/'>solved</a></td>
   </tr>
   <tr>
     <td>11</td>
@@ -172,7 +172,7 @@ Telegram ID: <a href="https://t.me/wolf2022">@wolf2022</a>
       چاپ مربع (ساده)<br>
       <a href='https://quera.org/problemset/591'>لینک سوال +</a>
     </td>
-    <td>unsolve</td>
+    <td>        <a href='/src/2013/'>solved</a></td>
   </tr>
   <tr>
     <td>14</td>
@@ -213,7 +213,7 @@ Telegram ID: <a href="https://t.me/wolf2022">@wolf2022</a>
       انتخابات ریاست جمهوری (ساده)<br>
       <a href='https://quera.org/problemset/604'>لینک سوال +</a>
     </td>
-    <td>unsolve</td>
+    <td><a href='/src/2017/'>solved</a></td>
   </tr>
   <tr>
     <td>18</td>
@@ -287,7 +287,7 @@ Telegram ID: <a href="https://t.me/wolf2022">@wolf2022</a>
       فرزاد کارکن (ساده)<br>
       <a href='https://quera.org/problemset/658'>لینک سوال +</a>
     </td>
-    <td>unsolve</td>
+    <td>  <a href='/src/2024/'>solved</a></td>
   </tr>
   <tr>
     <td>25</td>
@@ -297,7 +297,7 @@ Telegram ID: <a href="https://t.me/wolf2022">@wolf2022</a>
       لوزی‌های ستاره‌ای (ساده)<br>
       <a href='https://quera.org/problemset/9773'>لینک سوال +</a>
     </td>
-    <td>unsolve</td>
+    <td> <a href='/src/2025/'>solved</a></td>
   </tr>
   <tr>
     <td>26</td>
@@ -369,7 +369,7 @@ Telegram ID: <a href="https://t.me/wolf2022">@wolf2022</a>
       باغچه رز (متوسط)<br>
       <a href='https://quera.org/problemset/66867'>لینک سوال +</a>
     </td>
-    <td>unsolve</td>
+    <td> <a href='/src/2032/'>solved</a>
   </tr>
   <tr>
     <td>33</td>
@@ -479,7 +479,7 @@ Telegram ID: <a href="https://t.me/wolf2022">@wolf2022</a>
       توان دو (متوسط)<br>
       <a href='https://quera.org/problemset/616'>لینک سوال +</a>
     </td>
-    <td>unsolve</td>
+    <td><a href='/src/2043/'>solved</a></td>
   </tr>
   <tr>
     <td>44</td>
@@ -541,7 +541,7 @@ Telegram ID: <a href="https://t.me/wolf2022">@wolf2022</a>
       ضرب ماتریس‌ها (متوسط)<br>
       <a href='https://quera.org/problemset/607'>لینک سوال +</a>
     </td>
-    <td>unsolve</td>
+    <td><a href='/src/2049/'>solved</a></td>
   </tr>
   <tr>
     <td>50</td>
