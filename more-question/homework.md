@@ -109,7 +109,7 @@ Telegram ID: <a href="https://t.me/wolf2022">@wolf2022</a>
       مربع خاص (ساده)<br>
       <a href='https://quera.org/problemset/296'>لینک سوال +</a>
     </td>
-    <td>unsolve</td>
+    <td><a href='/src/2007/'>solved</a></td>
   </tr>
   <tr>
     <td>8</td>
