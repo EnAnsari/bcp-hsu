@@ -76,7 +76,7 @@ Telegram ID: <a href="https://t.me/wolf2022">@wolf2022</a>
     <td></td>
     <td dir='ltr'>
       1 : 4014 : <a href='/src/4014/'>solved</a><br>
-      2 : 4015 : unsolve<br>
+      2 : 4015 : <a href='/src/4015/'>solved</a><br>
       3 : 4016 : <a href='/src/4016/'>solved</a><br>
     </td>
   </tr>
@@ -95,7 +95,44 @@ Telegram ID: <a href="https://t.me/wolf2022">@wolf2022</a>
       5 : 4021 : unsolve<br>
     </td>
   </tr>
-<table>
+  <tr>
+    <td>7</td>
+    <td>میانترم اول<br>مهر 1399<br>برنامه‌نویسی پیشرفته</td>
+    <td>
+      <a href='https://github.com/EnAnsari/bcp-hsu/releases/download/3.0.0/midterm-1-1399-1400-adv-programming.pdf'>download</a>
+    </td>
+    <td></td>
+    <td dir='ltr'>
+      1 : 4022 : unsolve<br>
+      2 : 4023 : unsolve<br>
+      3 : 4024 : unsolve<br>
+    </td>
+  </tr>
+  <tr>
+    <td>8</td>
+    <td>میانترم دوم<br>مهر 1399<br>برنامه‌نویسی پیشرفته</td>
+    <td>
+      <a href='https://github.com/EnAnsari/bcp-hsu/releases/download/3.0.0/midterm-2-1399-1400-adv-programming.pdf'>download</a>
+    </td>
+    <td></td>
+    <td dir='ltr'>
+      1 : 4025 : unsolve<br>
+      2 : 4026 : unsolve<br>
+    </td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td>پایانترم آزمایشی</td>
+    <td>
+      <a href='https://github.com/EnAnsari/bcp-hsu/releases/download/3.0.0/test-final-01.pdf'>download</a>
+    </td>
+    <td></td>
+    <td dir='ltr'>
+      1 : 4027 : unsolve<br>
+      2 : 4028 : unsolve<br>
+    </td>
+  </tr>
+</table>
 </div>
     <!-- <tr>
     <td>NUMBER_OF_EXAM</td>
