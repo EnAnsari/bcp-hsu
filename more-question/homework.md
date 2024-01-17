@@ -233,7 +233,8 @@ Telegram ID: <a href="https://t.me/wolf2022">@wolf2022</a>
       عدد خودمقلوب (ساده)<br>
       <a href='https://quera.org/problemset/617'>لینک سوال +</a>
     </td>
-    <td>unsolve</td>
+    <td>        <a href='/src/2019/'>solved</a>
+</td>
   </tr>
   <tr>
     <td>20</td>
@@ -369,7 +370,7 @@ Telegram ID: <a href="https://t.me/wolf2022">@wolf2022</a>
       باغچه رز (متوسط)<br>
       <a href='https://quera.org/problemset/66867'>لینک سوال +</a>
     </td>
-    <td>unsolve</td>
+    <td> <a href='/src/2032/'>solved</a>
   </tr>
   <tr>
     <td>33</td>
