@@ -213,7 +213,7 @@ Telegram ID: <a href="https://t.me/wolf2022">@wolf2022</a>
       انتخابات ریاست جمهوری (ساده)<br>
       <a href='https://quera.org/problemset/604'>لینک سوال +</a>
     </td>
-    <td>unsolve</td>
+    <td><a href='/src/2017/'>solved</a></td>
   </tr>
   <tr>
     <td>18</td>
