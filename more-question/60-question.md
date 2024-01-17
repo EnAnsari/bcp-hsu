@@ -25,7 +25,7 @@ Telegram ID: <a href="https://t.me/wolf2022">@wolf2022</a>
     <td>1002</td>
     <td>برنامه‌های ساده</td>
     <td>برنامه‌ای بنویسید که یک عدد دریافت کند و زوج و فرد بودن آن را گزارش کند</td>
-    <td>unsolved</td>
+    <td><a href='/src/1002/'>solved</a></td>
   </tr>
   <tr>
     <td>3</td>
@@ -123,14 +123,14 @@ Telegram ID: <a href="https://t.me/wolf2022">@wolf2022</a>
     <td>1016</td>
     <td>ساختار تکرار</td>
     <td>برنامه‌ای بنویسید که یک عدد دریافت کند و تعداد ارقامش را چاپ کند</td>
-    <td>unsolved</td>
+    <td><a href='/src/1016/'>solved</a></td>
   </tr>
     <tr>
     <td>17</td>
     <td>1017</td>
     <td>ساختار تکرار</td>
     <td>برنامه‌ای بنویسید که از ورودی یک عدد دریافت کند و مجموع ارقامش را چاپ کند</td>
-    <td>unsolved</td>
+    <td><a href='/src/1017/'>solved</a></td>
   </tr>
     <tr>
     <td>18</td>
@@ -285,7 +285,7 @@ Telegram ID: <a href="https://t.me/wolf2022">@wolf2022</a>
     <td>1039</td>
     <td>آرایه</td>
     <td>برنامه ای بنویسید که دو آرایه دریافت کند و مجموع دو آرایه را چاپ کند</td>
-    <td>unsolved</td>
+    <td>  <a href='/src/1039/'>solved</a></td>
   </tr>
   <tr>
     <td>40</td>
