@@ -18,7 +18,7 @@ or use the answers below.
     <th>c++</th>
     <th>python</th>
   </tr>
-  <<tr>
+  <tr>
     <td>1</td>
     <td>
         <a href='https://github.com/Amirali207/'>AmirAli Abtahi</a>
@@ -27,7 +27,7 @@ or use the answers below.
     <td><a href='./4021277323/main.cpp'>solved</a></td>
     <td>unsolved</td>
   </tr>
-<table>
+</table>
   <!-- <td>
       <a href='./STUDENT_ID/FILE_NAME'>solved</a>
   </td> -->
