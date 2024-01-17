@@ -25,7 +25,7 @@ or use the answers below.
     </td>
     <td>unsolved</td>
     <td><a href='./4021277210/main.cpp'>solved</a></td>
-    <td>unsolved</td>
+    <td><a href='./4021277210/main.py'>solved</a></td>
   </tr>
 <table>
   <!-- <td>
