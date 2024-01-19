@@ -81,14 +81,15 @@ Telegram ID: <a href="https://t.me/wolf2022">@wolf2022</a>
     <td>1010</td>
     <td>ساختار تکرار</td>
     <td>برنامه‌ای بنویسید که ۱۰۰ عدد دریافت کند و بزرگترین آنها را چاپ کند</td>
-    <td>unsolved</td>
+    <td><a href='/src/1010/'>solved</a></td>
+
   </tr>
    <tr>
     <td>11</td>
     <td>1011</td>
     <td>ساختار تکرار</td>
     <td>برنامه‌ای بنویسید که ۱۰۰ عدد دریافت کند و دومین بزرگترین عدد را چاپ کند</td>
-    <td>unsolved</td>
+    <td><a href='/src/1011/'>solved</a></td>
   </tr>
    <tr>
     <td>12</td>
