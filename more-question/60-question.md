@@ -67,7 +67,7 @@ Telegram ID: <a href="https://t.me/wolf2022">@wolf2022</a>
     <td>1008</td>
     <td>ساختار تکرار</td>
     <td>برنامه‌ای بنویسید که از ورودی عدد n  را دریافت کند و مجموع ۱ تا n  را محاسبه کند</td>
-    <td>unsolved</td>
+    <td><a href='/src/1008/'>solved</a></td>
   </tr>
   <tr>
     <td>9</td>
@@ -95,14 +95,14 @@ Telegram ID: <a href="https://t.me/wolf2022">@wolf2022</a>
     <td>1012</td>
     <td>ساختار تکرار</td>
     <td>برنامه ای بنویسید که از ورودی 100 عدد دریافت کند و مشخص کند بزرگترین عدد چند بار تکرار شده است</td>
-    <td>unsolved</td>
+    <td><a href='/src/1012/'>solved</a></td>
   </tr>
    <tr>
     <td>13</td>
     <td>1013</td>
     <td>ساختار تکرار</td>
     <td>برنامه‌ای بنویسید که معدل ۱۰۰ دانشجو از ورودی دریافت کند و بالاترین معدل مشروط شده را چاپ کند</td>
-    <td>unsolved</td>
+    <td><a href='/src/1013/'>solved</a></td>
   </tr>
    <tr>
     <td>14</td>
@@ -137,28 +137,28 @@ Telegram ID: <a href="https://t.me/wolf2022">@wolf2022</a>
     <td>1018</td>
     <td>ساختار تکرار</td>
     <td>برنامه‌ای بنویسید که از ورودی یک عدد دریافت کند و بزرگترین رقمش را چاپ کند</td>
-    <td>unsolved</td>
+    <td><a href='/src/1018/'>solved</a></td>
   </tr>
     <tr>
     <td>19</td>
     <td>1019</td>
     <td>ساختار تکرار</td>
     <td>برنامه‌ای بنویسید که از ورودی یک عدد دریافت کند و تعداد مقسوم علیه‌های آن را چاپ کند</td>
-    <td>unsolved</td>
+    <td><a href='/src/1019/'>solved</a></td>
   </tr>
     <tr>
     <td>20</td>
     <td>1020</td>
     <td>ساختار تکرار</td>
     <td>برنامه‌ای بنویسید که از ورودی یک عدد دریافت کند و مجموع مقسوم علیه‌های آن را چاپ کند</td>
-    <td>unsolved</td>
+    <td><a href='/src/1020/'>solved</a></td>
   </tr>
     <tr>
     <td>21</td>
     <td>1021</td>
     <td>ساختار تکرار</td>
     <td>برنامه‌ای بنویسید که دو عدد از ورودی دریافت کند و مقسوم علیه های مشترک آنها را چاپ کند</td>
-    <td>unsolved</td>
+    <td><a href='/src/1021/'>solved</a></td>
   </tr>
     <tr>
     <td>22</td>
@@ -194,7 +194,7 @@ Telegram ID: <a href="https://t.me/wolf2022">@wolf2022</a>
     <td>1026</td>
     <td>تابع</td>
     <td>برنامه‌ای بنویسید که دو عدد a,b دریافت کند و حاصل a به توان b را محاسبه کند</td>
-    <td>unsolved</td>
+    <td><a href='/src/1026/'>solved</a></td>
   </tr>
      <tr>
     <td>27</td>
