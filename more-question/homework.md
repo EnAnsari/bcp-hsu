@@ -311,7 +311,7 @@ Telegram ID: <a href="https://t.me/wolf2022">@wolf2022</a>
       آلفا قنطورس (ساده)<br>
       <a href='https://quera.org/problemset/66859'>لینک سوال +</a>
     </td>
-    <td>unsolve</td>
+    <td> <a href='/src/2026/'>solved</a></td>
   </tr>
   <tr>
     <td>27</td>

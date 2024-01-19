@@ -27,6 +27,15 @@ or use the answers below.
     <td><a href='./4021277312/2005.cpp'>solved</a></td>
     <td>unsolved</td>
   </tr>
+  <tr>
+    <td>2</td>
+    <td>
+        <a href='mailto:soroush.main.2023.aba@gmail.com'>soroush abareshi</a>
+    </td>
+    <td>unsolved</td>
+    <td><a href='./4021277072/q2005.cpp'>solved</a></td>
+    <td>unsolved</td>
+  </tr>
   <!-- <tr>
     <td>NUM_OF_ANSWER</td>
     <td>
