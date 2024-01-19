@@ -207,8 +207,7 @@ Telegram ID: <a href="https://t.me/wolf2022">@wolf2022</a>
       مثلث خیام (ساده)<br>
       <a href='https://quera.org/problemset/595'>لینک سوال +</a>
     </td>
-    <td>unsolve</td>
-  </tr>
+<td><a href='/src/2016/'>solved</a></td>  </tr>
   <tr>
     <td>17</td>
     <td>2017</td>
