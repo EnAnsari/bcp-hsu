@@ -103,9 +103,9 @@ Telegram ID: <a href="https://t.me/wolf2022">@wolf2022</a>
     </td>
     <td></td>
     <td dir='ltr'>
-      1 : 4022 : unsolve<br>
-      2 : 4023 : unsolve<br>
-      3 : 4024 : unsolve<br>
+      1 : 4022 : <a href='/src/4022/'>solved</a><br>
+      2 : 4023 : <a href='/src/4023/'>solved</a><br>
+      3 : 4024 : <a href='/src/4024/'>solved</a><br>
     </td>
   </tr>
   <tr>
