@@ -74,7 +74,7 @@ Telegram ID: <a href="https://t.me/wolf2022">@wolf2022</a>
     <td>1009</td>
     <td>ساختار تکرار</td>
     <td>برنامه‌ای بنویسید که از ورودی n  را دریافت کند و فاکتوریل آن را محاسبه کند</td>
-    <td><a href='/src/1028/'>solved</a></td>
+    <td><a href='/src/1009/'>solved</a></td>
   </tr>
   <tr>
     <td>10</td>
