@@ -53,7 +53,7 @@ Telegram ID: <a href="https://t.me/wolf2022">@wolf2022</a>
     <td>1006</td>
     <td>برنامه‌های ساده</td>
     <td>برنامه‌ای بنویسید که سه ضلع یک مثلث را دریافت کند و مشخص کند مثلث متساوی الاضلاع، متساوی الساقین یا مختلف الاضلاع است</td>
-    <td>unsolved</td>
+    <td><a href='/src/1006'>solved</a></td>
   </tr>
   <tr>
     <td>7</td>
@@ -74,7 +74,7 @@ Telegram ID: <a href="https://t.me/wolf2022">@wolf2022</a>
     <td>1009</td>
     <td>ساختار تکرار</td>
     <td>برنامه‌ای بنویسید که از ورودی n  را دریافت کند و فاکتوریل آن را محاسبه کند</td>
-    <td>unsolved</td>
+    <td><a href='/src/1028/'>solved</a></td>
   </tr>
   <tr>
     <td>10</td>
