@@ -21,7 +21,7 @@ or use the answers below.
   <tr>
     <td>3</td>
     <td>
-        <a href='mailto:mohaddesehatayi1483@gmail.com'>yousef dowlata</a>
+        <a href='mailto:dowlat.work@gmail.com'>yousef dowlata</a>
     </td>
     <td>unsolved</td>
     <td><a href="./4022277023/99.cpp">solved</a></td>
